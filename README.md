@@ -1,1 +1,1 @@
-This is a research project completed by Dong Liu under the direction of Professor Meng Jiang, at University of Notre Dame, in summer 2022.
+This project is for multi-task learning for efficient embedding training in Natural Language Processing
