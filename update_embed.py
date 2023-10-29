@@ -146,7 +146,7 @@ def update_embedding0(emb_table, n_class, text_final, word_index, label, emb_dim
   from sklearn.metrics import accuracy_score
   n_hidden = 256
   n_emb = emb_dim
-  total_epoch = 25
+  total_epoch = 5
   model = Bi_LSTM_Attention().to(device)
   criterion = nn.CrossEntropyLoss()
   optimizer = optim.Adam(model.parameters(), lr=0.001)

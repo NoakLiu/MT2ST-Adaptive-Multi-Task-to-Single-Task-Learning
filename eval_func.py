@@ -148,7 +148,7 @@ def word_analogy_evaluation(vectors_file):
         return correct_sem, correct_syn, correct_tot, count_sem, count_syn, count_tot, full_count, tot_loss1, tot_loss2
 
   correct_sem, correct_syn, correct_tot, count_sem, count_syn, count_tot, full_count,tot_loss1, tot_loss2 \
-  = evaluate_vectors(W,vocab, prefix='./GloVe/eval/question-data')
+  = evaluate_vectors(W,vocab, prefix='GloVe/eval/question-data')
     
   semantic_acc = 100 * correct_sem / float(count_sem)
   syntactic_acc = 100 * correct_syn / float(count_syn)
