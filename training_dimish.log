@@ -1,0 +1,1882 @@
+D:\Anaconda\exe\python.exe "E:\2023 Fall\23 Fall MT2ST WE Acc Meng\MT2ST-Word-Embeddings-Acceleration-Method-main\MT2ST-Word-Embeddings-Acceleration-Method-main\training_dimish.py"
+Size of the dataset: 1000
+["This film did entertain me with lots of laughs at the actors who kept the film moving along in all types of crazy directions. If you like suggestive language and sexy looking gals they were all in the picture and gals and guys all looking burned out before they even graduate from high school. There is one scene where the teenagers drive their car into a very fake deer and then proceed to throw it out into a lake or ocean, which is repeated over and over again. There is no horror to this film except the word Horrible for the entire picture and Arnold who plays a plastic cop is really one sick character. Please don't waste your time viewing this film.", 'The animation in this re-imagining of Peter & the Wolf is excellent, but at 29 minutes, the film is sleep inducing. They should have called it "Peter & the Snails", because everything moves at a snail\'s pace. I couldn\'t even watch the film in one sitting - I had to watch it 15 minutes at a time, and it was pure torture.<br /><br />Save yourself 30 minutes - do not watch this film - and you will thank me.<br /><br />I can only guess that the Oscar nominating committee only watched the first few minutes of the nominees. Unfortunately, to vote for the winner in the Best Animated Short (short!) category, the voters will have to sit through the whole thing. I already feel sorry for them - and must predict that there\'s no way this film will come close to winning.', "This is a great show, and will make you cry, this group people really loved each other in real life and it shows time and time again. Email me and let's chat. I have been to Australia and they real do talk like this.<br /><br />I want you to enjoy Five Mile Creek and pass on these great stories of right and wrong, and friendship to your kids. I have all 40 Episodes on DVD-R that I have collected over the last 5 years. See my Five Mile Creek tribute at www.mikeandvicki.com and hear the extended theme music. Let's talk about them.<br /><br />These people are so cool!", 'This is a great TV miniseries of a classic novel. Janet McTeer and John Bowe, in the lead roles, are exceptional. This is one of the best adaptations from a book that I have seen. I would LOVE to get a copy of this - let me know if you know how I might get one...Thanks!', "My husband dragged me to this film as I had no interest in seeing some Anime cartoon. I was absolutely delighted by the simple story and amazing animation. In a digital world where effects are computer generated it was refreshing to see gorgeous, imaginative hand drawn animation. The world of Sosuke and Ponyo is a vivid fantasyland intermixed with minimal reality. I haven't seen animation like this since I was a child and it is wonderful to see it endure and succeed.<br /><br />The actors supplying the voices in the English version were fabulous. The length of the movie was PERFECT, especially for children who tend to get squirrelly in films. Overall a delightful experience worth the very expensive ticket prices we have nowadays.", "This film was reeeeeeallyyyy bad! Was it meant to be a comedy as I couldn't help laughing the whole way through it? what a waste of two hours! Donald Sutherland was wooden not that he was alone, everyone else was just as bad...and how miscast was linda hamilton???", "If you have enjoyed the Butterfly Effect, Donnie Darko or The Machinist, you will enjoy K-Pax too.<br /><br />To me, this movie felt really uplifting and yet depressing in the end. Spacey delivers a great performance as Prot. Also, lets not forget the appearance of Saul Williams in the movie, who i am a big fan of.<br /><br />After watching it, i recommended the movie to lots of my friends, and everyone was pretty much blown away.<br /><br />But still, it is very underrated, maybe because of the lack of action and explosions. I'm sorry, this is not a movie about blowing things up, it's about how humans behave, and how people live in worlds that don't exist.<br /><br />Go on, and enjoy.", "The first hour or so of the movie was mostly boring to say the least. However it improved afterwards as the Valentine Party commenced. Apart from the twist as to the identity of the killer in the very end, the hot bath murder scene was one of the few relatively memorable aspects of this movie. The scene at the garden with Kate was well shot and so was the very last scene (the 'twist'). In those scenes, there was some genuine suspense and thrills and the hot bath murder scene had a nasty (the way slashers should be) edge to it. The earlier murders are frustratingly devoid of gore.", "As an avid fan of Cary Grant, I expected to watch this movie and howl with laughter, as AMC billed it as a comedy. I have never been more disappointed with a film! Cary's usual charm and effortless comedy are AWOL from this entire movie; he comes across as strained, bored, and just not himself. Mississip's character ranks among one of the worst stereotypes I have ever witnessed - his accent is terribly exaggerated (and incorrect, according to which part of Mississippi he claims to hail from), and whenever he does deliver a line, it's several decibels higher than any other cast member. Mississip tried to make himself stand out in the film as a lovable, country-bumpkin goofball, but in the end, he manages only to detract from the already weak plot. Mansfield looks more like an obscene blow-up doll than a Hollywood sex kitten, and while she was never known in Hollywood for her acting ability, this film screams that she never had that ability to begin with. Ray Walston's character was sugary and ultimately contrived. For four men on shore leave, it was the tamest leave I've ever seen. I watched this nightmare until its very end, and while I won't spoil that for anyone, I will tell you that it's the most absurd you'll ever see. The film tries to spark patriotism and a sense of debt to the fighting men, but the film misses that point totally because of its weak plot line and weak cast. Sorry, Cary!"]
+['negative', 'negative', 'positive', 'positive', 'positive', 'negative', 'positive', 'positive', 'negative']
+['this film did entertain me with lots of laughs at the actors who kept the film moving along in all types of crazy directions if you like suggestive language and sexy looking gals they were all in the picture and gals and guys all looking burned out before they even graduate from high school there is one scene where the teenagers drive their car into a very fake deer and then proceed to throw it out into a lake or ocean which is repeated over and over again there is no horror to this film except the word horrible for the entire picture and arnold who plays a plastic cop is really one sick character please dont waste your time viewing this film', 'the animation in this reimagining of peter  the wolf is excellent but at 29 minutes the film is sleep inducing they should have called it peter  the snails because everything moves at a snails pace i couldnt even watch the film in one sitting  i had to watch it 15 minutes at a time and it was pure torturesave yourself 30 minutes  do not watch this film  and you will thank mei can only guess that the oscar nominating committee only watched the first few minutes of the nominees unfortunately to vote for the winner in the best animated short short category the voters will have to sit through the whole thing i already feel sorry for them  and must predict that theres no way this film will come close to winning', 'this is a great show and will make you cry this group people really loved each other in real life and it shows time and time again email me and lets chat i have been to australia and they real do talk like thisi want you to enjoy five mile creek and pass on these great stories of right and wrong and friendship to your kids i have all 40 episodes on dvdr that i have collected over the last 5 years see my five mile creek tribute at wwwmikeandvickicom and hear the extended theme music lets talk about themthese people are so cool', 'this is a great tv miniseries of a classic novel janet mcteer and john bowe in the lead roles are exceptional this is one of the best adaptations from a book that i have seen i would love to get a copy of this  let me know if you know how i might get onethanks', 'my husband dragged me to this film as i had no interest in seeing some anime cartoon i was absolutely delighted by the simple story and amazing animation in a digital world where effects are computer generated it was refreshing to see gorgeous imaginative hand drawn animation the world of sosuke and ponyo is a vivid fantasyland intermixed with minimal reality i havent seen animation like this since i was a child and it is wonderful to see it endure and succeedthe actors supplying the voices in the english version were fabulous the length of the movie was perfect especially for children who tend to get squirrelly in films overall a delightful experience worth the very expensive ticket prices we have nowadays', 'this film was reeeeeeallyyyy bad was it meant to be a comedy as i couldnt help laughing the whole way through it what a waste of two hours donald sutherland was wooden not that he was alone everyone else was just as badand how miscast was linda hamilton', 'if you have enjoyed the butterfly effect donnie darko or the machinist you will enjoy kpax tooto me this movie felt really uplifting and yet depressing in the end spacey delivers a great performance as prot also lets not forget the appearance of saul williams in the movie who i am a big fan ofafter watching it i recommended the movie to lots of my friends and everyone was pretty much blown awaybut still it is very underrated maybe because of the lack of action and explosions im sorry this is not a movie about blowing things up its about how humans behave and how people live in worlds that dont existgo on and enjoy', 'the first hour or so of the movie was mostly boring to say the least however it improved afterwards as the valentine party commenced apart from the twist as to the identity of the killer in the very end the hot bath murder scene was one of the few relatively memorable aspects of this movie the scene at the garden with kate was well shot and so was the very last scene the twist in those scenes there was some genuine suspense and thrills and the hot bath murder scene had a nasty the way slashers should be edge to it the earlier murders are frustratingly devoid of gore', 'as an avid fan of cary grant i expected to watch this movie and howl with laughter as amc billed it as a comedy i have never been more disappointed with a film carys usual charm and effortless comedy are awol from this entire movie he comes across as strained bored and just not himself mississips character ranks among one of the worst stereotypes i have ever witnessed  his accent is terribly exaggerated and incorrect according to which part of mississippi he claims to hail from and whenever he does deliver a line its several decibels higher than any other cast member mississip tried to make himself stand out in the film as a lovable countrybumpkin goofball but in the end he manages only to detract from the already weak plot mansfield looks more like an obscene blowup doll than a hollywood sex kitten and while she was never known in hollywood for her acting ability this film screams that she never had that ability to begin with ray walstons character was sugary and ultimately contrived for four men on shore leave it was the tamest leave ive ever seen i watched this nightmare until its very end and while i wont spoil that for anyone i will tell you that its the most absurd youll ever see the film tries to spark patriotism and a sense of debt to the fighting men but the film misses that point totally because of its weak plot line and weak cast sorry cary']
+[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\LdTenacity\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[['this', 'film', 'did', 'entertain', 'me', 'with', 'lots', 'of', 'laughs', 'at', 'the', 'actors', 'who', 'kept', 'the', 'film', 'moving', 'along', 'in', 'all', 'types', 'of', 'crazy', 'directions', 'if', 'you', 'like', 'suggestive', 'language', 'and', 'sexy', 'looking', 'gals', 'they', 'were', 'all', 'in', 'the', 'picture', 'and', 'gals', 'and', 'guys', 'all', 'looking', 'burned', 'out', 'before', 'they', 'even', 'graduate', 'from', 'high', 'school', 'there', 'is', 'one', 'scene', 'where', 'the', 'teenagers', 'drive', 'their', 'car', 'into', 'a', 'very', 'fake', 'deer', 'and', 'then', 'proceed', 'to', 'throw', 'it', 'out', 'into', 'a', 'lake', 'or', 'ocean', 'which', 'is', 'repeated', 'over', 'and', 'over', 'again', 'there', 'is', 'no', 'horror', 'to', 'this', 'film', 'except', 'the', 'word', 'horrible', 'for', 'the', 'entire', 'picture', 'and', 'arnold', 'who', 'plays', 'a', 'plastic', 'cop', 'is', 'really', 'one', 'sick', 'character', 'please', 'dont', 'waste', 'your', 'time', 'viewing', 'this', 'film'], ['the', 'animation', 'in', 'this', 'reimagining', 'of', 'peter', 'the', 'wolf', 'is', 'excellent', 'but', 'at', '29', 'minutes', 'the', 'film', 'is', 'sleep', 'inducing', 'they', 'should', 'have', 'called', 'it', 'peter', 'the', 'snails', 'because', 'everything', 'moves', 'at', 'a', 'snails', 'pace', 'i', 'couldnt', 'even', 'watch', 'the', 'film', 'in', 'one', 'sitting', 'i', 'had', 'to', 'watch', 'it', '15', 'minutes', 'at', 'a', 'time', 'and', 'it', 'was', 'pure', 'torturesave', 'yourself', '30', 'minutes', 'do', 'not', 'watch', 'this', 'film', 'and', 'you', 'will', 'thank', 'mei', 'can', 'only', 'guess', 'that', 'the', 'oscar', 'nominating', 'committee', 'only', 'watched', 'the', 'first', 'few', 'minutes', 'of', 'the', 'nominees', 'unfortunately', 'to', 'vote', 'for', 'the', 'winner', 'in', 'the', 'best', 'animated', 'short', 'short', 'category', 'the', 'voters', 'will', 'have', 'to', 'sit', 'through', 'the', 'whole', 'thing', 'i', 'already', 'feel', 'sorry', 'for', 'them', 'and', 'must', 'predict', 'that', 'theres', 'no', 'way', 'this', 'film', 'will', 'come', 'close', 'to', 'winning'], ['this', 'is', 'a', 'great', 'show', 'and', 'will', 'make', 'you', 'cry', 'this', 'group', 'people', 'really', 'loved', 'each', 'other', 'in', 'real', 'life', 'and', 'it', 'shows', 'time', 'and', 'time', 'again', 'email', 'me', 'and', 'lets', 'chat', 'i', 'have', 'been', 'to', 'australia', 'and', 'they', 'real', 'do', 'talk', 'like', 'thisi', 'want', 'you', 'to', 'enjoy', 'five', 'mile', 'creek', 'and', 'pass', 'on', 'these', 'great', 'stories', 'of', 'right', 'and', 'wrong', 'and', 'friendship', 'to', 'your', 'kids', 'i', 'have', 'all', '40', 'episodes', 'on', 'dvdr', 'that', 'i', 'have', 'collected', 'over', 'the', 'last', '5', 'years', 'see', 'my', 'five', 'mile', 'creek', 'tribute', 'at', 'wwwmikeandvickicom', 'and', 'hear', 'the', 'extended', 'theme', 'music', 'lets', 'talk', 'about', 'themthese', 'people', 'are', 'so', 'cool'], ['this', 'is', 'a', 'great', 'tv', 'miniseries', 'of', 'a', 'classic', 'novel', 'janet', 'mcteer', 'and', 'john', 'bowe', 'in', 'the', 'lead', 'roles', 'are', 'exceptional', 'this', 'is', 'one', 'of', 'the', 'best', 'adaptations', 'from', 'a', 'book', 'that', 'i', 'have', 'seen', 'i', 'would', 'love', 'to', 'get', 'a', 'copy', 'of', 'this', 'let', 'me', 'know', 'if', 'you', 'know', 'how', 'i', 'might', 'get', 'onethanks'], ['my', 'husband', 'dragged', 'me', 'to', 'this', 'film', 'as', 'i', 'had', 'no', 'interest', 'in', 'seeing', 'some', 'anime', 'cartoon', 'i', 'was', 'absolutely', 'delighted', 'by', 'the', 'simple', 'story', 'and', 'amazing', 'animation', 'in', 'a', 'digital', 'world', 'where', 'effects', 'are', 'computer', 'generated', 'it', 'was', 'refreshing', 'to', 'see', 'gorgeous', 'imaginative', 'hand', 'drawn', 'animation', 'the', 'world', 'of', 'sosuke', 'and', 'ponyo', 'is', 'a', 'vivid', 'fantasyland', 'intermixed', 'with', 'minimal', 'reality', 'i', 'havent', 'seen', 'animation', 'like', 'this', 'since', 'i', 'was', 'a', 'child', 'and', 'it', 'is', 'wonderful', 'to', 'see', 'it', 'endure', 'and', 'succeedthe', 'actors', 'supplying', 'the', 'voices', 'in', 'the', 'english', 'version', 'were', 'fabulous', 'the', 'length', 'of', 'the', 'movie', 'was', 'perfect', 'especially', 'for', 'children', 'who', 'tend', 'to', 'get', 'squirrelly', 'in', 'films', 'overall', 'a', 'delightful', 'experience', 'worth', 'the', 'very', 'expensive', 'ticket', 'prices', 'we', 'have', 'nowadays'], ['this', 'film', 'was', 'reeeeeeallyyyy', 'bad', 'was', 'it', 'meant', 'to', 'be', 'a', 'comedy', 'as', 'i', 'couldnt', 'help', 'laughing', 'the', 'whole', 'way', 'through', 'it', 'what', 'a', 'waste', 'of', 'two', 'hours', 'donald', 'sutherland', 'was', 'wooden', 'not', 'that', 'he', 'was', 'alone', 'everyone', 'else', 'was', 'just', 'as', 'badand', 'how', 'miscast', 'was', 'linda', 'hamilton'], ['if', 'you', 'have', 'enjoyed', 'the', 'butterfly', 'effect', 'donnie', 'darko', 'or', 'the', 'machinist', 'you', 'will', 'enjoy', 'kpax', 'tooto', 'me', 'this', 'movie', 'felt', 'really', 'uplifting', 'and', 'yet', 'depressing', 'in', 'the', 'end', 'spacey', 'delivers', 'a', 'great', 'performance', 'as', 'prot', 'also', 'lets', 'not', 'forget', 'the', 'appearance', 'of', 'saul', 'williams', 'in', 'the', 'movie', 'who', 'i', 'am', 'a', 'big', 'fan', 'ofafter', 'watching', 'it', 'i', 'recommended', 'the', 'movie', 'to', 'lots', 'of', 'my', 'friends', 'and', 'everyone', 'was', 'pretty', 'much', 'blown', 'awaybut', 'still', 'it', 'is', 'very', 'underrated', 'maybe', 'because', 'of', 'the', 'lack', 'of', 'action', 'and', 'explosions', 'im', 'sorry', 'this', 'is', 'not', 'a', 'movie', 'about', 'blowing', 'things', 'up', 'its', 'about', 'how', 'humans', 'behave', 'and', 'how', 'people', 'live', 'in', 'worlds', 'that', 'dont', 'existgo', 'on', 'and', 'enjoy'], ['the', 'first', 'hour', 'or', 'so', 'of', 'the', 'movie', 'was', 'mostly', 'boring', 'to', 'say', 'the', 'least', 'however', 'it', 'improved', 'afterwards', 'as', 'the', 'valentine', 'party', 'commenced', 'apart', 'from', 'the', 'twist', 'as', 'to', 'the', 'identity', 'of', 'the', 'killer', 'in', 'the', 'very', 'end', 'the', 'hot', 'bath', 'murder', 'scene', 'was', 'one', 'of', 'the', 'few', 'relatively', 'memorable', 'aspects', 'of', 'this', 'movie', 'the', 'scene', 'at', 'the', 'garden', 'with', 'kate', 'was', 'well', 'shot', 'and', 'so', 'was', 'the', 'very', 'last', 'scene', 'the', 'twist', 'in', 'those', 'scenes', 'there', 'was', 'some', 'genuine', 'suspense', 'and', 'thrills', 'and', 'the', 'hot', 'bath', 'murder', 'scene', 'had', 'a', 'nasty', 'the', 'way', 'slashers', 'should', 'be', 'edge', 'to', 'it', 'the', 'earlier', 'murders', 'are', 'frustratingly', 'devoid', 'of', 'gore'], ['as', 'an', 'avid', 'fan', 'of', 'cary', 'grant', 'i', 'expected', 'to', 'watch', 'this', 'movie', 'and', 'howl', 'with', 'laughter', 'as', 'amc', 'billed', 'it', 'as', 'a', 'comedy', 'i', 'have', 'never', 'been', 'more', 'disappointed', 'with', 'a', 'film', 'carys', 'usual', 'charm', 'and', 'effortless', 'comedy', 'are', 'awol', 'from', 'this', 'entire', 'movie', 'he', 'comes', 'across', 'as', 'strained', 'bored', 'and', 'just', 'not', 'himself', 'mississips', 'character', 'ranks', 'among', 'one', 'of', 'the', 'worst', 'stereotypes', 'i', 'have', 'ever', 'witnessed', 'his', 'accent', 'is', 'terribly', 'exaggerated', 'and', 'incorrect', 'according', 'to', 'which', 'part', 'of', 'mississippi', 'he', 'claims', 'to', 'hail', 'from', 'and', 'whenever', 'he', 'does', 'deliver', 'a', 'line', 'its', 'several', 'decibels', 'higher', 'than', 'any', 'other', 'cast', 'member', 'mississip', 'tried', 'to', 'make', 'himself', 'stand', 'out', 'in', 'the', 'film', 'as', 'a', 'lovable', 'countrybumpkin', 'goofball', 'but', 'in', 'the', 'end', 'he', 'manages', 'only', 'to', 'detract', 'from', 'the', 'already', 'weak', 'plot', 'mansfield', 'looks', 'more', 'like', 'an', 'obscene', 'blowup', 'doll', 'than', 'a', 'hollywood', 'sex', 'kitten', 'and', 'while', 'she', 'was', 'never', 'known', 'in', 'hollywood', 'for', 'her', 'acting', 'ability', 'this', 'film', 'screams', 'that', 'she', 'never', 'had', 'that', 'ability', 'to', 'begin', 'with', 'ray', 'walstons', 'character', 'was', 'sugary', 'and', 'ultimately', 'contrived', 'for', 'four', 'men', 'on', 'shore', 'leave', 'it', 'was', 'the', 'tamest', 'leave', 'ive', 'ever', 'seen', 'i', 'watched', 'this', 'nightmare', 'until', 'its', 'very', 'end', 'and', 'while', 'i', 'wont', 'spoil', 'that', 'for', 'anyone', 'i', 'will', 'tell', 'you', 'that', 'its', 'the', 'most', 'absurd', 'youll', 'ever', 'see', 'the', 'film', 'tries', 'to', 'spark', 'patriotism', 'and', 'a', 'sense', 'of', 'debt', 'to', 'the', 'fighting', 'men', 'but', 'the', 'film', 'misses', 'that', 'point', 'totally', 'because', 'of', 'its', 'weak', 'plot', 'line', 'and', 'weak', 'cast', 'sorry', 'cary']]
+[nltk_data] Downloading package stopwords to
+[nltk_data]     C:\Users\LdTenacity\AppData\Roaming\nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+[['film', 'entertain', 'lots', 'laughs', 'actors', 'kept', 'film', 'moving', 'along', 'types', 'crazy', 'directions', 'like', 'suggestive', 'language', 'sexy', 'looking', 'gals', 'picture', 'gals', 'guys', 'looking', 'burned', 'even', 'graduate', 'high', 'school', 'one', 'scene', 'teenagers', 'drive', 'car', 'fake', 'deer', 'proceed', 'throw', 'lake', 'ocean', 'repeated', 'horror', 'film', 'except', 'word', 'horrible', 'entire', 'picture', 'arnold', 'plays', 'plastic', 'cop', 'really', 'one', 'sick', 'character', 'please', 'dont', 'waste', 'time', 'viewing', 'film'], ['animation', 'reimagining', 'peter', 'wolf', 'excellent', '29', 'minutes', 'film', 'sleep', 'inducing', 'called', 'peter', 'snails', 'everything', 'moves', 'snails', 'pace', 'couldnt', 'even', 'watch', 'film', 'one', 'sitting', 'watch', '15', 'minutes', 'time', 'pure', 'torturesave', '30', 'minutes', 'watch', 'film', 'thank', 'mei', 'guess', 'oscar', 'nominating', 'committee', 'watched', 'first', 'minutes', 'nominees', 'unfortunately', 'vote', 'winner', 'best', 'animated', 'short', 'short', 'category', 'voters', 'sit', 'whole', 'thing', 'already', 'feel', 'sorry', 'must', 'predict', 'theres', 'way', 'film', 'come', 'close', 'winning'], ['great', 'show', 'make', 'cry', 'group', 'people', 'really', 'loved', 'real', 'life', 'shows', 'time', 'time', 'email', 'lets', 'chat', 'australia', 'real', 'talk', 'like', 'thisi', 'want', 'enjoy', 'five', 'mile', 'creek', 'pass', 'great', 'stories', 'right', 'wrong', 'friendship', 'kids', '40', 'episodes', 'dvdr', 'collected', 'last', '5', 'years', 'see', 'five', 'mile', 'creek', 'tribute', 'wwwmikeandvickicom', 'hear', 'extended', 'theme', 'music', 'lets', 'talk', 'themthese', 'people', 'cool'], ['great', 'tv', 'miniseries', 'classic', 'novel', 'janet', 'mcteer', 'john', 'bowe', 'lead', 'roles', 'exceptional', 'one', 'best', 'adaptations', 'book', 'seen', 'would', 'love', 'get', 'copy', 'let', 'know', 'know', 'might', 'get', 'onethanks'], ['husband', 'dragged', 'film', 'interest', 'seeing', 'anime', 'cartoon', 'absolutely', 'delighted', 'simple', 'story', 'amazing', 'animation', 'digital', 'world', 'effects', 'computer', 'generated', 'refreshing', 'see', 'gorgeous', 'imaginative', 'hand', 'drawn', 'animation', 'world', 'sosuke', 'ponyo', 'vivid', 'fantasyland', 'intermixed', 'minimal', 'reality', 'havent', 'seen', 'animation', 'like', 'since', 'child', 'wonderful', 'see', 'endure', 'succeedthe', 'actors', 'supplying', 'voices', 'english', 'version', 'fabulous', 'length', 'movie', 'perfect', 'especially', 'children', 'tend', 'get', 'squirrelly', 'films', 'overall', 'delightful', 'experience', 'worth', 'expensive', 'ticket', 'prices', 'nowadays'], ['film', 'reeeeeeallyyyy', 'bad', 'meant', 'comedy', 'couldnt', 'help', 'laughing', 'whole', 'way', 'waste', 'two', 'hours', 'donald', 'sutherland', 'wooden', 'alone', 'everyone', 'else', 'badand', 'miscast', 'linda', 'hamilton'], ['enjoyed', 'butterfly', 'effect', 'donnie', 'darko', 'machinist', 'enjoy', 'kpax', 'tooto', 'movie', 'felt', 'really', 'uplifting', 'yet', 'depressing', 'end', 'spacey', 'delivers', 'great', 'performance', 'prot', 'also', 'lets', 'forget', 'appearance', 'saul', 'williams', 'movie', 'big', 'fan', 'ofafter', 'watching', 'recommended', 'movie', 'lots', 'friends', 'everyone', 'pretty', 'much', 'blown', 'awaybut', 'still', 'underrated', 'maybe', 'lack', 'action', 'explosions', 'im', 'sorry', 'movie', 'blowing', 'things', 'humans', 'behave', 'people', 'live', 'worlds', 'dont', 'existgo', 'enjoy'], ['first', 'hour', 'movie', 'mostly', 'boring', 'say', 'least', 'however', 'improved', 'afterwards', 'valentine', 'party', 'commenced', 'apart', 'twist', 'identity', 'killer', 'end', 'hot', 'bath', 'murder', 'scene', 'one', 'relatively', 'memorable', 'aspects', 'movie', 'scene', 'garden', 'kate', 'well', 'shot', 'last', 'scene', 'twist', 'scenes', 'genuine', 'suspense', 'thrills', 'hot', 'bath', 'murder', 'scene', 'nasty', 'way', 'slashers', 'edge', 'earlier', 'murders', 'frustratingly', 'devoid', 'gore'], ['avid', 'fan', 'cary', 'grant', 'expected', 'watch', 'movie', 'howl', 'laughter', 'amc', 'billed', 'comedy', 'never', 'disappointed', 'film', 'carys', 'usual', 'charm', 'effortless', 'comedy', 'awol', 'entire', 'movie', 'comes', 'across', 'strained', 'bored', 'mississips', 'character', 'ranks', 'among', 'one', 'worst', 'stereotypes', 'ever', 'witnessed', 'accent', 'terribly', 'exaggerated', 'incorrect', 'according', 'part', 'mississippi', 'claims', 'hail', 'whenever', 'deliver', 'line', 'several', 'decibels', 'higher', 'cast', 'member', 'mississip', 'tried', 'make', 'stand', 'film', 'lovable', 'countrybumpkin', 'goofball', 'end', 'manages', 'detract', 'already', 'weak', 'plot', 'mansfield', 'looks', 'like', 'obscene', 'blowup', 'doll', 'hollywood', 'sex', 'kitten', 'never', 'known', 'hollywood', 'acting', 'ability', 'film', 'screams', 'never', 'ability', 'begin', 'ray', 'walstons', 'character', 'sugary', 'ultimately', 'contrived', 'four', 'men', 'shore', 'leave', 'tamest', 'leave', 'ive', 'ever', 'seen', 'watched', 'nightmare', 'end', 'wont', 'spoil', 'anyone', 'tell', 'absurd', 'youll', 'ever', 'see', 'film', 'tries', 'spark', 'patriotism', 'sense', 'debt', 'fighting', 'men', 'film', 'misses', 'point', 'totally', 'weak', 'plot', 'line', 'weak', 'cast', 'sorry', 'cary']]
+[nltk_data] Downloading package wordnet to
+[nltk_data]     C:\Users\LdTenacity\AppData\Roaming\nltk_data...
+[nltk_data]   Package wordnet is already up-to-date!
+[nltk_data] Downloading package omw-1.4 to
+[nltk_data]     C:\Users\LdTenacity\AppData\Roaming\nltk_data...
+[nltk_data]   Package omw-1.4 is already up-to-date!
+[['film', 'entertain', 'lot', 'laugh', 'actor', 'kept', 'film', 'moving', 'along', 'type', 'crazy', 'direction', 'like', 'suggestive', 'language', 'sexy', 'looking', 'gal', 'picture', 'gal', 'guy', 'looking', 'burned', 'even', 'graduate', 'high', 'school', 'one', 'scene', 'teenager', 'drive', 'car', 'fake', 'deer', 'proceed', 'throw', 'lake', 'ocean', 'repeated', 'horror', 'film', 'except', 'word', 'horrible', 'entire', 'picture', 'arnold', 'play', 'plastic', 'cop', 'really', 'one', 'sick', 'character', 'please', 'dont', 'waste', 'time', 'viewing', 'film'], ['animation', 'reimagining', 'peter', 'wolf', 'excellent', '29', 'minute', 'film', 'sleep', 'inducing', 'called', 'peter', 'snail', 'everything', 'move', 'snail', 'pace', 'couldnt', 'even', 'watch', 'film', 'one', 'sitting', 'watch', '15', 'minute', 'time', 'pure', 'torturesave', '30', 'minute', 'watch', 'film', 'thank', 'mei', 'guess', 'oscar', 'nominating', 'committee', 'watched', 'first', 'minute', 'nominee', 'unfortunately', 'vote', 'winner', 'best', 'animated', 'short', 'short', 'category', 'voter', 'sit', 'whole', 'thing', 'already', 'feel', 'sorry', 'must', 'predict', 'there', 'way', 'film', 'come', 'close', 'winning'], ['great', 'show', 'make', 'cry', 'group', 'people', 'really', 'loved', 'real', 'life', 'show', 'time', 'time', 'email', 'let', 'chat', 'australia', 'real', 'talk', 'like', 'thisi', 'want', 'enjoy', 'five', 'mile', 'creek', 'pas', 'great', 'story', 'right', 'wrong', 'friendship', 'kid', '40', 'episode', 'dvdr', 'collected', 'last', '5', 'year', 'see', 'five', 'mile', 'creek', 'tribute', 'wwwmikeandvickicom', 'hear', 'extended', 'theme', 'music', 'let', 'talk', 'themthese', 'people', 'cool'], ['great', 'tv', 'miniseries', 'classic', 'novel', 'janet', 'mcteer', 'john', 'bowe', 'lead', 'role', 'exceptional', 'one', 'best', 'adaptation', 'book', 'seen', 'would', 'love', 'get', 'copy', 'let', 'know', 'know', 'might', 'get', 'onethanks'], ['husband', 'dragged', 'film', 'interest', 'seeing', 'anime', 'cartoon', 'absolutely', 'delighted', 'simple', 'story', 'amazing', 'animation', 'digital', 'world', 'effect', 'computer', 'generated', 'refreshing', 'see', 'gorgeous', 'imaginative', 'hand', 'drawn', 'animation', 'world', 'sosuke', 'ponyo', 'vivid', 'fantasyland', 'intermixed', 'minimal', 'reality', 'havent', 'seen', 'animation', 'like', 'since', 'child', 'wonderful', 'see', 'endure', 'succeedthe', 'actor', 'supplying', 'voice', 'english', 'version', 'fabulous', 'length', 'movie', 'perfect', 'especially', 'child', 'tend', 'get', 'squirrelly', 'film', 'overall', 'delightful', 'experience', 'worth', 'expensive', 'ticket', 'price', 'nowadays'], ['film', 'reeeeeeallyyyy', 'bad', 'meant', 'comedy', 'couldnt', 'help', 'laughing', 'whole', 'way', 'waste', 'two', 'hour', 'donald', 'sutherland', 'wooden', 'alone', 'everyone', 'else', 'badand', 'miscast', 'linda', 'hamilton'], ['enjoyed', 'butterfly', 'effect', 'donnie', 'darko', 'machinist', 'enjoy', 'kpax', 'tooto', 'movie', 'felt', 'really', 'uplifting', 'yet', 'depressing', 'end', 'spacey', 'delivers', 'great', 'performance', 'prot', 'also', 'let', 'forget', 'appearance', 'saul', 'williams', 'movie', 'big', 'fan', 'ofafter', 'watching', 'recommended', 'movie', 'lot', 'friend', 'everyone', 'pretty', 'much', 'blown', 'awaybut', 'still', 'underrated', 'maybe', 'lack', 'action', 'explosion', 'im', 'sorry', 'movie', 'blowing', 'thing', 'human', 'behave', 'people', 'live', 'world', 'dont', 'existgo', 'enjoy'], ['first', 'hour', 'movie', 'mostly', 'boring', 'say', 'least', 'however', 'improved', 'afterwards', 'valentine', 'party', 'commenced', 'apart', 'twist', 'identity', 'killer', 'end', 'hot', 'bath', 'murder', 'scene', 'one', 'relatively', 'memorable', 'aspect', 'movie', 'scene', 'garden', 'kate', 'well', 'shot', 'last', 'scene', 'twist', 'scene', 'genuine', 'suspense', 'thrill', 'hot', 'bath', 'murder', 'scene', 'nasty', 'way', 'slasher', 'edge', 'earlier', 'murder', 'frustratingly', 'devoid', 'gore'], ['avid', 'fan', 'cary', 'grant', 'expected', 'watch', 'movie', 'howl', 'laughter', 'amc', 'billed', 'comedy', 'never', 'disappointed', 'film', 'carys', 'usual', 'charm', 'effortless', 'comedy', 'awol', 'entire', 'movie', 'come', 'across', 'strained', 'bored', 'mississips', 'character', 'rank', 'among', 'one', 'worst', 'stereotype', 'ever', 'witnessed', 'accent', 'terribly', 'exaggerated', 'incorrect', 'according', 'part', 'mississippi', 'claim', 'hail', 'whenever', 'deliver', 'line', 'several', 'decibel', 'higher', 'cast', 'member', 'mississip', 'tried', 'make', 'stand', 'film', 'lovable', 'countrybumpkin', 'goofball', 'end', 'manages', 'detract', 'already', 'weak', 'plot', 'mansfield', 'look', 'like', 'obscene', 'blowup', 'doll', 'hollywood', 'sex', 'kitten', 'never', 'known', 'hollywood', 'acting', 'ability', 'film', 'scream', 'never', 'ability', 'begin', 'ray', 'walstons', 'character', 'sugary', 'ultimately', 'contrived', 'four', 'men', 'shore', 'leave', 'tamest', 'leave', 'ive', 'ever', 'seen', 'watched', 'nightmare', 'end', 'wont', 'spoil', 'anyone', 'tell', 'absurd', 'youll', 'ever', 'see', 'film', 'try', 'spark', 'patriotism', 'sense', 'debt', 'fighting', 'men', 'film', 'miss', 'point', 'totally', 'weak', 'plot', 'line', 'weak', 'cast', 'sorry', 'cary']]
+Epoch: 1, loss: 0.69320, train_acc: 0.51
+Epoch: 2, loss: 3.30163, train_acc: 0.49
+Epoch: 3, loss: 7.12619, train_acc: 0.51
+Epoch: 4, loss: 1.90261, train_acc: 0.48
+Epoch: 5, loss: 2.00941, train_acc: 0.49
+Epoch: 6, loss: 0.93977, train_acc: 0.50
+Epoch: 7, loss: 1.51636, train_acc: 0.49
+Epoch: 8, loss: 0.92211, train_acc: 0.47
+Epoch: 9, loss: 1.63303, train_acc: 0.50
+Epoch: 10, loss: 1.01953, train_acc: 0.49
+Epoch: 11, loss: 1.40945, train_acc: 0.51
+Epoch: 12, loss: 1.42190, train_acc: 0.48
+Epoch: 13, loss: 1.62770, train_acc: 0.50
+Epoch: 14, loss: 1.22491, train_acc: 0.50
+Epoch: 15, loss: 0.92069, train_acc: 0.51
+Epoch: 16, loss: 0.91376, train_acc: 0.51
+Epoch: 17, loss: 0.91519, train_acc: 0.51
+Epoch: 18, loss: 0.88758, train_acc: 0.52
+Epoch: 19, loss: 0.85773, train_acc: 0.53
+Epoch: 20, loss: 0.80663, train_acc: 0.54
+Epoch: 21, loss: 0.86148, train_acc: 0.53
+Epoch: 22, loss: 0.76396, train_acc: 0.54
+Epoch: 23, loss: 0.87464, train_acc: 0.56
+Epoch: 24, loss: 0.77012, train_acc: 0.53
+Epoch: 25, loss: 0.84821, train_acc: 0.53
+Finished Training
+              precision    recall  f1-score   support
+
+           0       0.58      0.32      0.41       132
+           1       0.49      0.74      0.59       118
+
+    accuracy                           0.52       250
+   macro avg       0.53      0.53      0.50       250
+weighted avg       0.54      0.52      0.49       250
+
+test_pad.shape: 250
+test_pad[0].shape: 100
+weight adjusted tensor(1.8958, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 1, loss: 0.69409, train_acc: 0.49
+weight adjusted tensor(1.8000, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 2, loss: 0.69545, train_acc: 0.51
+weight adjusted tensor(1.6239, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 3, loss: 0.69283, train_acc: 0.51
+weight adjusted tensor(1.3222, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 4, loss: 0.69156, train_acc: 0.54
+weight adjusted tensor(0.8770, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 5, loss: 0.69180, train_acc: 0.52
+weight adjusted tensor(0.3859, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 6, loss: 0.69137, train_acc: 0.53
+weight adjusted tensor(0.0747, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 7, loss: 0.69009, train_acc: 0.56
+weight adjusted tensor(0.0028, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 8, loss: 0.68882, train_acc: 0.55
+weight adjusted tensor(3.9478e-06, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 9, loss: 0.68788, train_acc: 0.55
+weight adjusted tensor(7.8240e-12, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 10, loss: 0.68682, train_acc: 0.56
+weight adjusted tensor(3.0698e-23, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 11, loss: 0.68498, train_acc: 0.58
+weight adjusted tensor(4.7435e-46, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 12, loss: 0.68245, train_acc: 0.58
+weight adjusted tensor(1.1327e-91, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 13, loss: 0.67959, train_acc: 0.61
+weight adjusted tensor(6.4448e-183, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 14, loss: 0.67618, train_acc: 0.66
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 15, loss: 0.67135, train_acc: 0.67
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 16, loss: 0.66447, train_acc: 0.67
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 17, loss: 0.65658, train_acc: 0.66
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 18, loss: 0.64398, train_acc: 0.72
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 19, loss: 0.62836, train_acc: 0.76
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 20, loss: 0.60180, train_acc: 0.82
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 21, loss: 0.56940, train_acc: 0.83
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 22, loss: 1.06824, train_acc: 0.51
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 23, loss: 0.53579, train_acc: 0.88
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 24, loss: 0.60502, train_acc: 0.59
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 25, loss: 0.59692, train_acc: 0.60
+Finished Training
+              precision    recall  f1-score   support
+
+           0       0.57      0.03      0.06       132
+           1       0.47      0.97      0.64       118
+
+    accuracy                           0.48       250
+   macro avg       0.52      0.50      0.35       250
+weighted avg       0.53      0.48      0.33       250
+
+input_torch torch.Size([750, 100])
+sparsemans loss -0.41609179091997733
+Epoch: 1, loss: 0.27714, train_acc: 0.49
+input_torch torch.Size([750, 100])
+sparsemans loss 0.6527650595018676
+Epoch: 2, loss: 1.35032, train_acc: 0.51
+input_torch torch.Size([750, 100])
+sparsemans loss 0.4923516750488703
+Epoch: 3, loss: 1.18431, train_acc: 0.51
+input_torch torch.Size([750, 100])
+sparsemans loss 0.6119662200987549
+Epoch: 4, loss: 1.30490, train_acc: 0.50
+input_torch torch.Size([750, 100])
+sparsemans loss 0.4294825445928083
+Epoch: 5, loss: 1.12270, train_acc: 0.50
+input_torch torch.Size([750, 100])
+sparsemans loss 0.1857012926225767
+Epoch: 6, loss: 0.87709, train_acc: 0.52
+input_torch torch.Size([750, 100])
+sparsemans loss 0.03563924999890316
+Epoch: 7, loss: 0.72524, train_acc: 0.56
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0013455647325037775
+Epoch: 8, loss: 0.69007, train_acc: 0.55
+input_torch torch.Size([750, 100])
+sparsemans loss 1.912038626706246e-06
+Epoch: 9, loss: 0.68829, train_acc: 0.51
+input_torch torch.Size([750, 100])
+sparsemans loss 4.004398980721484e-12
+Epoch: 10, loss: 0.68729, train_acc: 0.51
+input_torch torch.Size([750, 100])
+sparsemans loss 2.2831511913034837e-23
+Epoch: 11, loss: 0.68539, train_acc: 0.51
+input_torch torch.Size([750, 100])
+sparsemans loss 3.728677465090531e-46
+Epoch: 12, loss: 0.68302, train_acc: 0.61
+input_torch torch.Size([750, 100])
+sparsemans loss 8.929298714715044e-92
+Epoch: 13, loss: 0.68053, train_acc: 0.63
+input_torch torch.Size([750, 100])
+sparsemans loss 4.802445037713229e-183
+Epoch: 14, loss: 0.67776, train_acc: 0.67
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 15, loss: 0.67400, train_acc: 0.67
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 16, loss: 0.66852, train_acc: 0.68
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 17, loss: 0.66142, train_acc: 0.67
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 18, loss: 0.65358, train_acc: 0.68
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 19, loss: 0.64000, train_acc: 0.74
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 20, loss: 0.62382, train_acc: 0.81
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 21, loss: 0.59702, train_acc: 0.89
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 22, loss: 0.56761, train_acc: 0.73
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 23, loss: 0.57850, train_acc: 0.66
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 24, loss: 0.48652, train_acc: 0.92
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 25, loss: 1.36384, train_acc: 0.52
+Finished Training
+              precision    recall  f1-score   support
+
+           0       0.60      0.85      0.70       132
+           1       0.68      0.36      0.47       118
+
+    accuracy                           0.62       250
+   macro avg       0.64      0.60      0.58       250
+weighted avg       0.63      0.62      0.59       250
+
+weight adjusted tensor(0.0190, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 1, loss: 0.67423, train_acc: 0.50
+weight adjusted tensor(0.0180, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 2, loss: 0.67706, train_acc: 0.51
+weight adjusted tensor(0.0163, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 3, loss: 0.67561, train_acc: 0.52
+weight adjusted tensor(0.0138, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 4, loss: 0.67932, train_acc: 0.50
+weight adjusted tensor(0.0092, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 5, loss: 0.68263, train_acc: 0.52
+weight adjusted tensor(0.0040, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 6, loss: 0.68603, train_acc: 0.55
+weight adjusted tensor(0.0008, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 7, loss: 0.68863, train_acc: 0.52
+weight adjusted tensor(2.8264e-05, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 8, loss: 0.68890, train_acc: 0.51
+weight adjusted tensor(3.9816e-08, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 9, loss: 0.68753, train_acc: 0.51
+weight adjusted tensor(7.8909e-14, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 10, loss: 0.68545, train_acc: 0.56
+weight adjusted tensor(3.1040e-25, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 11, loss: 0.68334, train_acc: 0.59
+weight adjusted tensor(4.7910e-48, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 12, loss: 0.68105, train_acc: 0.63
+weight adjusted tensor(1.1446e-93, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 13, loss: 0.67777, train_acc: 0.62
+weight adjusted tensor(6.5258e-185, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 14, loss: 0.67300, train_acc: 0.63
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 15, loss: 0.66748, train_acc: 0.64
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 16, loss: 0.65960, train_acc: 0.67
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 17, loss: 0.64794, train_acc: 0.73
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 18, loss: 0.63204, train_acc: 0.78
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 19, loss: 0.60575, train_acc: 0.86
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 20, loss: 0.56052, train_acc: 0.85
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 21, loss: 0.71121, train_acc: 0.57
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 22, loss: 0.87930, train_acc: 0.54
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 23, loss: 0.51675, train_acc: 0.85
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 24, loss: 0.56172, train_acc: 0.72
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 25, loss: 0.58047, train_acc: 0.68
+Finished Training
+              precision    recall  f1-score   support
+
+           0       0.54      0.90      0.67       132
+           1       0.55      0.14      0.22       118
+
+    accuracy                           0.54       250
+   macro avg       0.55      0.52      0.45       250
+weighted avg       0.54      0.54      0.46       250
+
+sparsemans loss -0.0437991358863134
+word analogy weight adjusted tensor(1.8958, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 1, loss: -1.24619, train_acc: 0.49
+sparsemans loss 0.020398819997954776
+word analogy weight adjusted tensor(1.8000, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 2, loss: -1.08246, train_acc: 0.51
+sparsemans loss 0.042769925575897906
+word analogy weight adjusted tensor(1.6238, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 3, loss: -0.88856, train_acc: 0.51
+sparsemans loss 0.1630684395206019
+word analogy weight adjusted tensor(1.3222, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 4, loss: -0.46691, train_acc: 0.51
+sparsemans loss 0.13805267034898117
+word analogy weight adjusted tensor(0.8768, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 5, loss: -0.04582, train_acc: 0.50
+sparsemans loss 0.11825382959771562
+word analogy weight adjusted tensor(0.3856, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 6, loss: 0.42446, train_acc: 0.50
+sparsemans loss 0.09973138674528717
+word analogy weight adjusted tensor(0.0747, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 7, loss: 0.71532, train_acc: 0.55
+sparsemans loss 0.09544363243570497
+word analogy weight adjusted tensor(0.0029, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 8, loss: 0.78166, train_acc: 0.56
+sparsemans loss 0.09565025290854935
+word analogy weight adjusted tensor(4.0949e-06, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 9, loss: 0.78420, train_acc: 0.53
+sparsemans loss 0.09395667178309149
+word analogy weight adjusted tensor(8.1152e-12, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 10, loss: 0.78177, train_acc: 0.51
+sparsemans loss 0.13158122545857429
+word analogy weight adjusted tensor(3.1818e-23, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 11, loss: 0.81787, train_acc: 0.51
+sparsemans loss 0.02614176736894955
+word analogy weight adjusted tensor(4.9151e-46, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 12, loss: 0.71029, train_acc: 0.61
+sparsemans loss 0.019882763340076052
+word analogy weight adjusted tensor(1.1732e-91, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 13, loss: 0.70165, train_acc: 0.63
+sparsemans loss -0.0009591981122265089
+word analogy weight adjusted tensor(6.6764e-183, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 14, loss: 0.67819, train_acc: 0.65
+sparsemans loss 0.004767933728205103
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 15, loss: 0.68052, train_acc: 0.65
+sparsemans loss 0.006806864133655973
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 16, loss: 0.67763, train_acc: 0.66
+sparsemans loss -0.001574165648607894
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 17, loss: 0.66268, train_acc: 0.65
+sparsemans loss -0.02648973204285577
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 18, loss: 0.63037, train_acc: 0.67
+sparsemans loss -0.03711998494046967
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 19, loss: 0.60741, train_acc: 0.71
+sparsemans loss 0.08556063243585413
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 20, loss: 0.71456, train_acc: 0.76
+sparsemans loss 0.0875671725911075
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 21, loss: 0.69096, train_acc: 0.85
+sparsemans loss 0.06670921701004531
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 22, loss: 0.63668, train_acc: 0.74
+sparsemans loss 0.04559978943609979
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 23, loss: 0.80448, train_acc: 0.57
+sparsemans loss 0.06961070671010827
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 24, loss: 0.59007, train_acc: 0.85
+sparsemans loss 0.09925342095474456
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 25, loss: 0.68766, train_acc: 0.56
+Finished Training
+              precision    recall  f1-score   support
+
+           0       0.62      0.06      0.11       132
+           1       0.48      0.96      0.64       118
+
+    accuracy                           0.48       250
+   macro avg       0.55      0.51      0.37       250
+weighted avg       0.55      0.48      0.36       250
+
+Epoch: 1, loss: 0.69289, train_acc: 0.51
+Epoch: 2, loss: 7.59723, train_acc: 0.51
+Epoch: 3, loss: 3.34010, train_acc: 0.49
+Epoch: 4, loss: 2.66350, train_acc: 0.51
+Epoch: 5, loss: 2.53510, train_acc: 0.52
+Epoch: 6, loss: 2.11589, train_acc: 0.47
+Epoch: 7, loss: 2.08927, train_acc: 0.49
+Epoch: 8, loss: 1.48527, train_acc: 0.51
+Epoch: 9, loss: 1.57091, train_acc: 0.51
+Epoch: 10, loss: 1.46807, train_acc: 0.51
+Epoch: 11, loss: 1.06362, train_acc: 0.51
+Epoch: 12, loss: 1.03521, train_acc: 0.51
+Epoch: 13, loss: 0.92183, train_acc: 0.52
+Epoch: 14, loss: 0.90762, train_acc: 0.51
+Epoch: 15, loss: 0.87001, train_acc: 0.52
+Epoch: 16, loss: 0.95731, train_acc: 0.53
+Epoch: 17, loss: 0.94945, train_acc: 0.52
+Epoch: 18, loss: 0.96433, train_acc: 0.48
+Epoch: 19, loss: 0.90388, train_acc: 0.49
+Epoch: 20, loss: 0.82710, train_acc: 0.53
+Epoch: 21, loss: 0.84216, train_acc: 0.53
+Epoch: 22, loss: 0.87078, train_acc: 0.51
+Epoch: 23, loss: 0.83626, train_acc: 0.53
+Epoch: 24, loss: 0.81623, train_acc: 0.51
+Epoch: 25, loss: 0.78845, train_acc: 0.53
+Finished Training
+              precision    recall  f1-score   support
+
+           0       0.58      0.36      0.44       132
+           1       0.50      0.71      0.59       118
+
+    accuracy                           0.52       250
+   macro avg       0.54      0.53      0.51       250
+weighted avg       0.54      0.52      0.51       250
+
+test_pad.shape: 250
+test_pad[0].shape: 100
+weight adjusted tensor(2.9565, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 1, loss: 0.69296, train_acc: 0.51
+weight adjusted tensor(2.8092, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 2, loss: 0.69157, train_acc: 0.51
+weight adjusted tensor(2.5336, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 3, loss: 0.69016, train_acc: 0.55
+weight adjusted tensor(2.0628, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 4, loss: 0.68826, train_acc: 0.56
+weight adjusted tensor(1.3692, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 5, loss: 0.68567, train_acc: 0.57
+weight adjusted tensor(0.6026, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 6, loss: 0.68195, train_acc: 0.57
+weight adjusted tensor(0.1167, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 7, loss: 0.67631, train_acc: 0.60
+weight adjusted tensor(0.0045, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 8, loss: 0.66761, train_acc: 0.63
+weight adjusted tensor(6.1626e-06, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 9, loss: 0.65231, train_acc: 0.65
+weight adjusted tensor(1.2187e-11, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 10, loss: 0.62347, train_acc: 0.67
+weight adjusted tensor(4.9047e-23, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 11, loss: 0.68390, train_acc: 0.63
+weight adjusted tensor(7.5699e-46, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 12, loss: 0.83204, train_acc: 0.61
+weight adjusted tensor(1.7604e-91, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 13, loss: 0.58830, train_acc: 0.71
+weight adjusted tensor(1.0024e-182, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 14, loss: 0.61849, train_acc: 0.63
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 15, loss: 0.63507, train_acc: 0.57
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 16, loss: 0.63940, train_acc: 0.55
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 17, loss: 0.63797, train_acc: 0.55
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 18, loss: 0.63425, train_acc: 0.56
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 19, loss: 0.62987, train_acc: 0.58
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 20, loss: 0.62546, train_acc: 0.63
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 21, loss: 0.62121, train_acc: 0.68
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 22, loss: 0.61705, train_acc: 0.73
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 23, loss: 0.61282, train_acc: 0.75
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 24, loss: 0.60825, train_acc: 0.78
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 25, loss: 0.60300, train_acc: 0.79
+Finished Training
+              precision    recall  f1-score   support
+
+           0       0.59      0.49      0.54       132
+           1       0.52      0.62      0.57       118
+
+    accuracy                           0.55       250
+   macro avg       0.56      0.56      0.55       250
+weighted avg       0.56      0.55      0.55       250
+
+input_torch torch.Size([750, 100])
+sparsemans loss -1.1092659447205742
+Epoch: 1, loss: -0.41605, train_acc: 0.50
+input_torch torch.Size([750, 100])
+sparsemans loss -0.3770598301522397
+Epoch: 2, loss: 0.31556, train_acc: 0.51
+input_torch torch.Size([750, 100])
+sparsemans loss 0.429205224644936
+Epoch: 3, loss: 1.12010, train_acc: 0.51
+input_torch torch.Size([750, 100])
+sparsemans loss 0.4265257078599068
+Epoch: 4, loss: 1.11620, train_acc: 0.59
+input_torch torch.Size([750, 100])
+sparsemans loss 0.2663758657007368
+Epoch: 5, loss: 0.95453, train_acc: 0.58
+input_torch torch.Size([750, 100])
+sparsemans loss 0.10371847248855112
+Epoch: 6, loss: 0.78941, train_acc: 0.61
+input_torch torch.Size([750, 100])
+sparsemans loss 0.019875025101317535
+Epoch: 7, loss: 0.70236, train_acc: 0.59
+input_torch torch.Size([750, 100])
+sparsemans loss 0.00010328892077861262
+Epoch: 8, loss: 0.67855, train_acc: 0.59
+input_torch torch.Size([750, 100])
+sparsemans loss 1.1477823909106558e-06
+Epoch: 9, loss: 0.67243, train_acc: 0.61
+input_torch torch.Size([750, 100])
+sparsemans loss 2.636733248991266e-12
+Epoch: 10, loss: 0.66319, train_acc: 0.62
+input_torch torch.Size([750, 100])
+sparsemans loss 5.893414950786862e-24
+Epoch: 11, loss: 0.64965, train_acc: 0.67
+input_torch torch.Size([750, 100])
+sparsemans loss 5.554443605299215e-47
+Epoch: 12, loss: 0.62486, train_acc: 0.69
+input_torch torch.Size([750, 100])
+sparsemans loss 2.3360977613192538e-93
+Epoch: 13, loss: 0.65211, train_acc: 0.67
+input_torch torch.Size([750, 100])
+sparsemans loss 1.1997514727082994e-183
+Epoch: 14, loss: 1.35143, train_acc: 0.57
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 15, loss: 0.60269, train_acc: 0.71
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 16, loss: 0.72200, train_acc: 0.54
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 17, loss: 0.66360, train_acc: 0.53
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 18, loss: 0.63547, train_acc: 0.54
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 19, loss: 0.62914, train_acc: 0.55
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 20, loss: 0.62807, train_acc: 0.57
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 21, loss: 0.62827, train_acc: 0.59
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 22, loss: 0.62869, train_acc: 0.63
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 23, loss: 0.62900, train_acc: 0.66
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 24, loss: 0.62911, train_acc: 0.70
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 25, loss: 0.62897, train_acc: 0.73
+Finished Training
+              precision    recall  f1-score   support
+
+           0       0.64      0.22      0.33       132
+           1       0.50      0.86      0.63       118
+
+    accuracy                           0.52       250
+   macro avg       0.57      0.54      0.48       250
+weighted avg       0.58      0.52      0.47       250
+
+weight adjusted tensor(0.0296, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 1, loss: 0.66343, train_acc: 0.51
+weight adjusted tensor(0.0281, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 2, loss: 0.66390, train_acc: 0.54
+weight adjusted tensor(0.0253, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 3, loss: 0.66505, train_acc: 0.55
+weight adjusted tensor(0.0206, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 4, loss: 0.66834, train_acc: 0.53
+weight adjusted tensor(0.0137, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 5, loss: 0.67294, train_acc: 0.57
+weight adjusted tensor(0.0060, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 6, loss: 0.67766, train_acc: 0.59
+weight adjusted tensor(0.0012, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 7, loss: 0.67849, train_acc: 0.62
+weight adjusted tensor(4.3808e-05, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 8, loss: 0.67334, train_acc: 0.62
+weight adjusted tensor(6.1662e-08, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 9, loss: 0.66426, train_acc: 0.61
+weight adjusted tensor(1.2219e-13, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 10, loss: 0.64979, train_acc: 0.64
+weight adjusted tensor(4.7966e-25, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 11, loss: 0.62728, train_acc: 0.68
+weight adjusted tensor(7.3954e-48, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 12, loss: 0.60337, train_acc: 0.67
+weight adjusted tensor(1.7647e-93, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 13, loss: 0.81038, train_acc: 0.67
+weight adjusted tensor(1.0051e-184, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 14, loss: 0.59735, train_acc: 0.63
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 15, loss: 0.61907, train_acc: 0.60
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 16, loss: 0.61038, train_acc: 0.61
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 17, loss: 0.60856, train_acc: 0.64
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 18, loss: 0.60861, train_acc: 0.68
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 19, loss: 0.60875, train_acc: 0.72
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 20, loss: 0.60844, train_acc: 0.75
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 21, loss: 0.60742, train_acc: 0.77
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 22, loss: 0.60550, train_acc: 0.79
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 23, loss: 0.60242, train_acc: 0.79
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 24, loss: 0.59792, train_acc: 0.80
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 25, loss: 0.59166, train_acc: 0.81
+Finished Training
+              precision    recall  f1-score   support
+
+           0       0.63      0.59      0.61       132
+           1       0.57      0.61      0.59       118
+
+    accuracy                           0.60       250
+   macro avg       0.60      0.60      0.60       250
+weighted avg       0.60      0.60      0.60       250
+
+sparsemans loss -0.11676483628637624
+word analogy weight adjusted tensor(2.9565, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 1, loss: -2.38006, train_acc: 0.49
+sparsemans loss 0.15964030462461778
+word analogy weight adjusted tensor(2.8077, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 2, loss: -1.95541, train_acc: 0.51
+sparsemans loss 0.03400193938074211
+word analogy weight adjusted tensor(2.5341, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 3, loss: -1.80907, train_acc: 0.51
+sparsemans loss 0.02959458757821494
+word analogy weight adjusted tensor(2.0647, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 4, loss: -1.34539, train_acc: 0.57
+sparsemans loss 0.02745021254745301
+word analogy weight adjusted tensor(1.3699, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 5, loss: -0.65409, train_acc: 0.59
+sparsemans loss 0.022335816241085098
+word analogy weight adjusted tensor(0.6027, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 6, loss: 0.10591, train_acc: 0.62
+sparsemans loss 0.029431296170194684
+word analogy weight adjusted tensor(0.1165, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 7, loss: 0.59622, train_acc: 0.60
+sparsemans loss 0.03624941211345431
+word analogy weight adjusted tensor(0.0044, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 8, loss: 0.71135, train_acc: 0.61
+sparsemans loss 0.05574167702241284
+word analogy weight adjusted tensor(6.1561e-06, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 9, loss: 0.73013, train_acc: 0.60
+sparsemans loss 0.14927925773597547
+word analogy weight adjusted tensor(1.2201e-11, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 10, loss: 0.81607, train_acc: 0.62
+sparsemans loss 0.23260332760739572
+word analogy weight adjusted tensor(4.7901e-23, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 11, loss: 0.88774, train_acc: 0.66
+sparsemans loss 0.22488187463391734
+word analogy weight adjusted tensor(7.3976e-46, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 12, loss: 0.86257, train_acc: 0.69
+sparsemans loss 0.19586583877848093
+word analogy weight adjusted tensor(1.7618e-91, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 13, loss: 0.80045, train_acc: 0.71
+sparsemans loss 0.14201137008970788
+word analogy weight adjusted tensor(1.0035e-182, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 14, loss: 0.85264, train_acc: 0.64
+sparsemans loss 0.18715816556643425
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 15, loss: 1.23521, train_acc: 0.61
+sparsemans loss 0.19228846090755972
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 16, loss: 0.79396, train_acc: 0.72
+sparsemans loss 0.19505029320309955
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 17, loss: 0.76849, train_acc: 0.75
+sparsemans loss 0.18916702965310841
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 18, loss: 0.77670, train_acc: 0.74
+sparsemans loss 0.17962427686461513
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 19, loss: 0.77642, train_acc: 0.71
+sparsemans loss 0.18855693380512878
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 20, loss: 0.79084, train_acc: 0.68
+sparsemans loss 0.1672695770443027
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 21, loss: 0.77247, train_acc: 0.66
+sparsemans loss 0.14512696952028667
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 22, loss: 0.75135, train_acc: 0.64
+sparsemans loss 0.14516360193442518
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 23, loss: 0.75087, train_acc: 0.63
+sparsemans loss 0.15083040680116017
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 24, loss: 0.75472, train_acc: 0.62
+sparsemans loss 0.13924540922962095
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 25, loss: 0.74012, train_acc: 0.63
+Finished Training
+              precision    recall  f1-score   support
+
+           0       0.90      0.07      0.13       132
+           1       0.49      0.99      0.65       118
+
+    accuracy                           0.50       250
+   macro avg       0.69      0.53      0.39       250
+weighted avg       0.71      0.50      0.38       250
+
+test_pad.shape: 250
+test_pad[0].shape: 100
+weight adjusted tensor(52.5325, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 1, loss: 0.69619, train_acc: 0.49
+weight adjusted tensor(49.9064, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 2, loss: 0.69598, train_acc: 0.51
+weight adjusted tensor(45.0451, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 3, loss: 0.69393, train_acc: 0.51
+weight adjusted tensor(36.6934, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 4, loss: 0.69185, train_acc: 0.52
+weight adjusted tensor(24.3457, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 5, loss: 0.69204, train_acc: 0.56
+weight adjusted tensor(10.7163, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 6, loss: 0.69227, train_acc: 0.49
+weight adjusted tensor(2.0760, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 7, loss: 0.69149, train_acc: 0.53
+weight adjusted tensor(0.0779, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 8, loss: 0.69030, train_acc: 0.51
+weight adjusted tensor(0.0001, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 9, loss: 0.68932, train_acc: 0.52
+weight adjusted tensor(2.1750e-10, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 10, loss: 0.68866, train_acc: 0.59
+weight adjusted tensor(8.5500e-22, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 11, loss: 0.68794, train_acc: 0.51
+weight adjusted tensor(1.3212e-44, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 12, loss: 0.68672, train_acc: 0.51
+weight adjusted tensor(3.1544e-90, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 13, loss: 0.68488, train_acc: 0.55
+weight adjusted tensor(1.7982e-181, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 14, loss: 0.68262, train_acc: 0.72
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 15, loss: 0.68010, train_acc: 0.58
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 16, loss: 0.67707, train_acc: 0.63
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 17, loss: 0.67282, train_acc: 0.67
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 18, loss: 0.66673, train_acc: 0.66
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 19, loss: 0.65885, train_acc: 0.71
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 20, loss: 0.64858, train_acc: 0.73
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 21, loss: 0.63175, train_acc: 0.79
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 22, loss: 0.61009, train_acc: 0.81
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 23, loss: 0.59644, train_acc: 0.76
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 24, loss: 0.61144, train_acc: 0.54
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 25, loss: 0.53213, train_acc: 0.87
+Finished Training
+D:\Anaconda\exe\lib\site-packages\sklearn\metrics\_classification.py:1318: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+D:\Anaconda\exe\lib\site-packages\sklearn\metrics\_classification.py:1318: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+D:\Anaconda\exe\lib\site-packages\sklearn\metrics\_classification.py:1318: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       132
+           1       0.47      1.00      0.64       118
+
+    accuracy                           0.47       250
+   macro avg       0.24      0.50      0.32       250
+weighted avg       0.22      0.47      0.30       250
+
+input_torch torch.Size([750, 100])
+sparsemans loss -1.4233990069845313
+Epoch: 1, loss: -0.73013, train_acc: 0.49
+input_torch torch.Size([750, 100])
+sparsemans loss -1.3551573934006915
+Epoch: 2, loss: -0.65337, train_acc: 0.51
+input_torch torch.Size([750, 100])
+sparsemans loss -1.221505516055852
+Epoch: 3, loss: -0.52872, train_acc: 0.51
+input_torch torch.Size([750, 100])
+sparsemans loss -0.9854291647991537
+Epoch: 4, loss: -0.29260, train_acc: 0.49
+input_torch torch.Size([750, 100])
+sparsemans loss -0.651895087124373
+Epoch: 5, loss: 0.04283, train_acc: 0.49
+input_torch torch.Size([750, 100])
+sparsemans loss -0.2867099664406636
+Epoch: 6, loss: 0.40691, train_acc: 0.49
+input_torch torch.Size([750, 100])
+sparsemans loss -0.05568045381140377
+Epoch: 7, loss: 0.63582, train_acc: 0.52
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0020890952432272483
+Epoch: 8, loss: 0.68800, train_acc: 0.52
+input_torch torch.Size([750, 100])
+sparsemans loss -2.921156474079242e-06
+Epoch: 9, loss: 0.68972, train_acc: 0.51
+input_torch torch.Size([750, 100])
+sparsemans loss -5.804555903695825e-12
+Epoch: 10, loss: 0.68973, train_acc: 0.51
+input_torch torch.Size([750, 100])
+sparsemans loss -2.2949586673190082e-23
+Epoch: 11, loss: 0.68923, train_acc: 0.51
+input_torch torch.Size([750, 100])
+sparsemans loss -3.537885793660971e-46
+Epoch: 12, loss: 0.68801, train_acc: 0.51
+input_torch torch.Size([750, 100])
+sparsemans loss -8.463433505058134e-92
+Epoch: 13, loss: 0.68637, train_acc: 0.51
+input_torch torch.Size([750, 100])
+sparsemans loss -4.808593431088358e-183
+Epoch: 14, loss: 0.68468, train_acc: 0.71
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 15, loss: 0.68306, train_acc: 0.60
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 16, loss: 0.68129, train_acc: 0.61
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 17, loss: 0.67897, train_acc: 0.68
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 18, loss: 0.67566, train_acc: 0.68
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 19, loss: 0.67112, train_acc: 0.61
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 20, loss: 0.66547, train_acc: 0.65
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 21, loss: 0.65878, train_acc: 0.71
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 22, loss: 0.64943, train_acc: 0.73
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 23, loss: 0.63480, train_acc: 0.75
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 24, loss: 0.61618, train_acc: 0.81
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 25, loss: 0.58506, train_acc: 0.84
+Finished Training
+              precision    recall  f1-score   support
+
+           0       0.69      0.19      0.30       132
+           1       0.50      0.91      0.64       118
+
+    accuracy                           0.53       250
+   macro avg       0.60      0.55      0.47       250
+weighted avg       0.60      0.53      0.46       250
+
+weight adjusted tensor(0.5253, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 1, loss: 0.16783, train_acc: 0.51
+weight adjusted tensor(0.4991, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 2, loss: 0.19409, train_acc: 0.51
+weight adjusted tensor(0.4503, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 3, loss: 0.24687, train_acc: 0.51
+weight adjusted tensor(0.3667, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 4, loss: 0.32545, train_acc: 0.52
+weight adjusted tensor(0.2433, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 5, loss: 0.44858, train_acc: 0.52
+weight adjusted tensor(0.1071, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 6, loss: 0.58538, train_acc: 0.49
+weight adjusted tensor(0.0207, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 7, loss: 0.67030, train_acc: 0.51
+weight adjusted tensor(0.0008, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 8, loss: 0.68865, train_acc: 0.57
+weight adjusted tensor(1.0951e-06, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 9, loss: 0.68868, train_acc: 0.51
+weight adjusted tensor(2.1709e-12, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 10, loss: 0.68825, train_acc: 0.51
+weight adjusted tensor(8.5327e-24, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 11, loss: 0.68706, train_acc: 0.51
+weight adjusted tensor(1.3183e-46, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 12, loss: 0.68490, train_acc: 0.51
+weight adjusted tensor(3.1473e-92, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 13, loss: 0.68230, train_acc: 0.61
+weight adjusted tensor(1.7939e-183, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 14, loss: 0.67971, train_acc: 0.74
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 15, loss: 0.67660, train_acc: 0.68
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 16, loss: 0.67164, train_acc: 0.70
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 17, loss: 0.66433, train_acc: 0.73
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 18, loss: 0.65544, train_acc: 0.75
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 19, loss: 0.64184, train_acc: 0.76
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 20, loss: 0.62036, train_acc: 0.77
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 21, loss: 0.57994, train_acc: 0.83
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 22, loss: 0.76919, train_acc: 0.51
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 23, loss: 0.86012, train_acc: 0.55
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 24, loss: 0.54825, train_acc: 0.93
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 25, loss: 0.58000, train_acc: 0.68
+Finished Training
+D:\Anaconda\exe\lib\site-packages\sklearn\metrics\_classification.py:1318: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+D:\Anaconda\exe\lib\site-packages\sklearn\metrics\_classification.py:1318: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+D:\Anaconda\exe\lib\site-packages\sklearn\metrics\_classification.py:1318: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       132
+           1       0.47      1.00      0.64       118
+
+    accuracy                           0.47       250
+   macro avg       0.24      0.50      0.32       250
+weighted avg       0.22      0.47      0.30       250
+
+sparsemans loss -0.14983147441942435
+word analogy weight adjusted tensor(52.5325, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 1, loss: -51.98676, train_acc: 0.49
+sparsemans loss -0.14986634288541748
+word analogy weight adjusted tensor(49.9053, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 2, loss: -49.35904, train_acc: 0.51
+sparsemans loss -0.15018870643105686
+word analogy weight adjusted tensor(45.0423, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 3, loss: -44.49876, train_acc: 0.51
+sparsemans loss -0.15013900896687488
+word analogy weight adjusted tensor(36.6899, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 4, loss: -36.14827, train_acc: 0.51
+sparsemans loss -0.1485689440985761
+word analogy weight adjusted tensor(24.3424, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 5, loss: -23.79892, train_acc: 0.55
+sparsemans loss -0.14913028932998318
+word analogy weight adjusted tensor(10.7141, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 6, loss: -10.17097, train_acc: 0.49
+sparsemans loss -0.14955853906152553
+word analogy weight adjusted tensor(2.0755, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 7, loss: -1.53360, train_acc: 0.53
+sparsemans loss -0.14969744106874588
+word analogy weight adjusted tensor(0.0779, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 8, loss: 0.46270, train_acc: 0.52
+sparsemans loss -0.1491430629373602
+word analogy weight adjusted tensor(0.0001, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 9, loss: 0.54009, train_acc: 0.52
+sparsemans loss -0.14847357777127262
+word analogy weight adjusted tensor(2.1741e-10, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 10, loss: 0.54024, train_acc: 0.55
+sparsemans loss -0.14800733942061298
+word analogy weight adjusted tensor(8.5462e-22, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 11, loss: 0.54002, train_acc: 0.51
+sparsemans loss -0.14887972934252472
+word analogy weight adjusted tensor(1.3205e-44, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 12, loss: 0.53795, train_acc: 0.51
+sparsemans loss -0.14830583525315352
+word analogy weight adjusted tensor(3.1528e-90, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 13, loss: 0.53672, train_acc: 0.55
+sparsemans loss -0.1486748600953907
+word analogy weight adjusted tensor(1.7972e-181, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 14, loss: 0.53413, train_acc: 0.71
+sparsemans loss -0.14908405383639609
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 15, loss: 0.53122, train_acc: 0.54
+sparsemans loss -0.1490821158956847
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 16, loss: 0.52822, train_acc: 0.61
+sparsemans loss -0.1490999365333161
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 17, loss: 0.52400, train_acc: 0.65
+sparsemans loss -0.14926646249201447
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 18, loss: 0.51775, train_acc: 0.59
+sparsemans loss -0.14963853799774782
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 19, loss: 0.50961, train_acc: 0.63
+sparsemans loss -0.14873546467971316
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 20, loss: 0.50020, train_acc: 0.66
+sparsemans loss -0.1484530811398529
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 21, loss: 0.48412, train_acc: 0.74
+sparsemans loss -0.14823188954886
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 22, loss: 0.46148, train_acc: 0.77
+sparsemans loss -0.14386069675335694
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 23, loss: 0.80224, train_acc: 0.67
+sparsemans loss -0.14329881361574962
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 24, loss: 0.48317, train_acc: 0.55
+sparsemans loss -0.14017227967807055
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 25, loss: 0.46428, train_acc: 0.57
+Finished Training
+              precision    recall  f1-score   support
+
+           0       0.58      0.88      0.70       132
+           1       0.67      0.28      0.40       118
+
+    accuracy                           0.60       250
+   macro avg       0.63      0.58      0.55       250
+weighted avg       0.62      0.60      0.55       250
+
+test_pad.shape: 250
+test_pad[0].shape: 100
+weight adjusted tensor(22.2510, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 1, loss: 0.69403, train_acc: 0.49
+weight adjusted tensor(21.1356, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 2, loss: 0.69362, train_acc: 0.51
+weight adjusted tensor(19.0743, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 3, loss: 0.69236, train_acc: 0.51
+weight adjusted tensor(15.5362, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 4, loss: 0.69104, train_acc: 0.56
+weight adjusted tensor(10.3070, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 5, loss: 0.69054, train_acc: 0.52
+weight adjusted tensor(4.5363, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 6, loss: 0.68977, train_acc: 0.55
+weight adjusted tensor(0.8787, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 7, loss: 0.68827, train_acc: 0.52
+weight adjusted tensor(0.0330, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 8, loss: 0.68634, train_acc: 0.55
+weight adjusted tensor(4.6426e-05, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 9, loss: 0.68425, train_acc: 0.59
+weight adjusted tensor(9.2052e-11, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 10, loss: 0.68157, train_acc: 0.59
+weight adjusted tensor(3.6188e-22, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 11, loss: 0.67742, train_acc: 0.59
+weight adjusted tensor(5.5928e-45, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 12, loss: 0.67139, train_acc: 0.63
+weight adjusted tensor(1.3355e-90, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 13, loss: 0.66321, train_acc: 0.66
+weight adjusted tensor(7.6131e-182, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 14, loss: 0.65056, train_acc: 0.70
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 15, loss: 0.62766, train_acc: 0.71
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 16, loss: 0.59925, train_acc: 0.65
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 17, loss: 0.65723, train_acc: 0.60
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 18, loss: 0.56990, train_acc: 0.77
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 19, loss: 0.57746, train_acc: 0.67
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 20, loss: 0.57173, train_acc: 0.64
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 21, loss: 0.55052, train_acc: 0.72
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 22, loss: 0.52718, train_acc: 0.80
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 23, loss: 0.47578, train_acc: 0.80
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 24, loss: 0.52871, train_acc: 0.80
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 25, loss: 0.52329, train_acc: 0.79
+Finished Training
+              precision    recall  f1-score   support
+
+           0       0.67      0.61      0.64       132
+           1       0.60      0.66      0.63       118
+
+    accuracy                           0.64       250
+   macro avg       0.64      0.64      0.64       250
+weighted avg       0.64      0.64      0.64       250
+
+input_torch torch.Size([750, 100])
+sparsemans loss -2.4655158900683074
+Epoch: 1, loss: -1.77133, train_acc: 0.49
+input_torch torch.Size([750, 100])
+sparsemans loss -2.3358616504140164
+Epoch: 2, loss: -1.64195, train_acc: 0.51
+input_torch torch.Size([750, 100])
+sparsemans loss -2.1275156161172286
+Epoch: 3, loss: -1.43510, train_acc: 0.51
+input_torch torch.Size([750, 100])
+sparsemans loss -1.7302784661009711
+Epoch: 4, loss: -1.03929, train_acc: 0.55
+input_torch torch.Size([750, 100])
+sparsemans loss -1.1441050765125753
+Epoch: 5, loss: -0.45360, train_acc: 0.52
+input_torch torch.Size([750, 100])
+sparsemans loss -0.500368309102203
+Epoch: 6, loss: 0.18941, train_acc: 0.56
+input_torch torch.Size([750, 100])
+sparsemans loss -0.09740443562231123
+Epoch: 7, loss: 0.59085, train_acc: 0.53
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0036115408873818454
+Epoch: 8, loss: 0.68268, train_acc: 0.55
+input_torch torch.Size([750, 100])
+sparsemans loss -4.99844162969158e-06
+Epoch: 9, loss: 0.68420, train_acc: 0.58
+input_torch torch.Size([750, 100])
+sparsemans loss -9.825468861120388e-12
+Epoch: 10, loss: 0.68155, train_acc: 0.59
+input_torch torch.Size([750, 100])
+sparsemans loss -3.911146473300645e-23
+Epoch: 11, loss: 0.67738, train_acc: 0.59
+input_torch torch.Size([750, 100])
+sparsemans loss -5.9118845284152275e-46
+Epoch: 12, loss: 0.67120, train_acc: 0.63
+input_torch torch.Size([750, 100])
+sparsemans loss -1.4002880111297834e-91
+Epoch: 13, loss: 0.66266, train_acc: 0.68
+input_torch torch.Size([750, 100])
+sparsemans loss -7.937755106589973e-183
+Epoch: 14, loss: 0.64925, train_acc: 0.72
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 15, loss: 0.62429, train_acc: 0.69
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 16, loss: 0.59548, train_acc: 0.65
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 17, loss: 0.68210, train_acc: 0.57
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 18, loss: 0.58491, train_acc: 0.75
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 19, loss: 0.57574, train_acc: 0.75
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 20, loss: 0.58793, train_acc: 0.64
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 21, loss: 0.58543, train_acc: 0.62
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 22, loss: 0.57159, train_acc: 0.66
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 23, loss: 0.55441, train_acc: 0.73
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 24, loss: 0.53506, train_acc: 0.79
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 25, loss: 0.50623, train_acc: 0.82
+Finished Training
+              precision    recall  f1-score   support
+
+           0       0.70      0.33      0.45       132
+           1       0.53      0.85      0.65       118
+
+    accuracy                           0.57       250
+   macro avg       0.62      0.59      0.55       250
+weighted avg       0.62      0.57      0.54       250
+
+weight adjusted tensor(0.2225, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 1, loss: 0.47189, train_acc: 0.49
+weight adjusted tensor(0.2114, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 2, loss: 0.48230, train_acc: 0.51
+weight adjusted tensor(0.1908, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 3, loss: 0.50173, train_acc: 0.51
+weight adjusted tensor(0.1554, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 4, loss: 0.53574, train_acc: 0.55
+weight adjusted tensor(0.1031, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 5, loss: 0.58752, train_acc: 0.51
+weight adjusted tensor(0.0454, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 6, loss: 0.64456, train_acc: 0.54
+weight adjusted tensor(0.0088, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 7, loss: 0.67971, train_acc: 0.52
+weight adjusted tensor(0.0003, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 8, loss: 0.68630, train_acc: 0.52
+weight adjusted tensor(4.6432e-07, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 9, loss: 0.68459, train_acc: 0.59
+weight adjusted tensor(9.2057e-13, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 10, loss: 0.68201, train_acc: 0.59
+weight adjusted tensor(3.6188e-24, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 11, loss: 0.67805, train_acc: 0.61
+weight adjusted tensor(5.5919e-47, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 12, loss: 0.67243, train_acc: 0.64
+weight adjusted tensor(1.3351e-92, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 13, loss: 0.66504, train_acc: 0.67
+weight adjusted tensor(7.6110e-184, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 14, loss: 0.65391, train_acc: 0.71
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 15, loss: 0.63503, train_acc: 0.71
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 16, loss: 0.60534, train_acc: 0.67
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 17, loss: 0.60633, train_acc: 0.66
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 18, loss: 1.11190, train_acc: 0.58
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 19, loss: 0.55439, train_acc: 0.78
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 20, loss: 0.60462, train_acc: 0.67
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 21, loss: 0.62972, train_acc: 0.56
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 22, loss: 0.63969, train_acc: 0.53
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 23, loss: 0.64129, train_acc: 0.52
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 24, loss: 0.63865, train_acc: 0.52
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 25, loss: 0.63411, train_acc: 0.53
+Finished Training
+D:\Anaconda\exe\lib\site-packages\sklearn\metrics\_classification.py:1318: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+D:\Anaconda\exe\lib\site-packages\sklearn\metrics\_classification.py:1318: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+D:\Anaconda\exe\lib\site-packages\sklearn\metrics\_classification.py:1318: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+              precision    recall  f1-score   support
+
+           0       0.53      1.00      0.69       132
+           1       0.00      0.00      0.00       118
+
+    accuracy                           0.53       250
+   macro avg       0.26      0.50      0.35       250
+weighted avg       0.28      0.53      0.36       250
+
+sparsemans loss -0.2595279884282429
+word analogy weight adjusted tensor(22.2510, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 1, loss: -21.81658, train_acc: 0.49
+sparsemans loss -0.2604712519724882
+word analogy weight adjusted tensor(21.1401, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 2, loss: -20.70604, train_acc: 0.51
+sparsemans loss -0.2629593819683045
+word analogy weight adjusted tensor(19.0821, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 3, loss: -18.65258, train_acc: 0.51
+sparsemans loss -0.26127033980589626
+word analogy weight adjusted tensor(15.5455, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 4, loss: -15.11555, train_acc: 0.55
+sparsemans loss -0.2625805764119952
+word analogy weight adjusted tensor(10.3149, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 5, loss: -9.88652, train_acc: 0.56
+sparsemans loss -0.26222834381440335
+word analogy weight adjusted tensor(4.5404, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 6, loss: -4.11243, train_acc: 0.57
+sparsemans loss -0.26590816769496983
+word analogy weight adjusted tensor(0.8796, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 7, loss: -0.45689, train_acc: 0.53
+sparsemans loss -0.2680794540174564
+word analogy weight adjusted tensor(0.0330, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 8, loss: 0.38577, train_acc: 0.56
+sparsemans loss -0.2684464736338929
+word analogy weight adjusted tensor(4.6483e-05, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 9, loss: 0.41661, train_acc: 0.59
+sparsemans loss -0.2669651571137012
+word analogy weight adjusted tensor(9.2169e-11, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 10, loss: 0.41585, train_acc: 0.58
+sparsemans loss -0.26642321508852657
+word analogy weight adjusted tensor(3.6235e-22, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 11, loss: 0.41285, train_acc: 0.59
+sparsemans loss -0.26655978901639255
+word analogy weight adjusted tensor(5.5998e-45, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 12, loss: 0.40765, train_acc: 0.63
+sparsemans loss -0.26977298979176234
+word analogy weight adjusted tensor(1.3372e-90, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 13, loss: 0.39783, train_acc: 0.66
+sparsemans loss -0.26837674923901
+word analogy weight adjusted tensor(7.6236e-182, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 14, loss: 0.38999, train_acc: 0.69
+sparsemans loss -0.26668250438421764
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 15, loss: 0.37646, train_acc: 0.72
+sparsemans loss -0.264911372795626
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 16, loss: 0.35437, train_acc: 0.69
+sparsemans loss -0.25746809529075815
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 17, loss: 0.31362, train_acc: 0.71
+sparsemans loss -0.25604556770203835
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 18, loss: 0.90772, train_acc: 0.55
+sparsemans loss -0.25442544463646083
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 19, loss: 0.77999, train_acc: 0.59
+sparsemans loss -0.25449582078729954
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 20, loss: 0.34699, train_acc: 0.64
+sparsemans loss -0.2541476276029648
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 21, loss: 0.30700, train_acc: 0.75
+sparsemans loss -0.2504735259485101
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 22, loss: 0.32603, train_acc: 0.83
+sparsemans loss -0.24704101878085505
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 23, loss: 0.34141, train_acc: 0.84
+sparsemans loss -0.2447011320718903
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 24, loss: 0.35188, train_acc: 0.82
+sparsemans loss -0.2446523450696162
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 25, loss: 0.35703, train_acc: 0.81
+Finished Training
+              precision    recall  f1-score   support
+
+           0       0.56      0.84      0.67       132
+           1       0.59      0.25      0.36       118
+
+    accuracy                           0.56       250
+   macro avg       0.57      0.55      0.51       250
+weighted avg       0.57      0.56      0.52       250
+
+test_pad.shape: 250
+test_pad[0].shape: 100
+weight adjusted tensor(169.4571, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 1, loss: 0.69318, train_acc: 0.51
+weight adjusted tensor(161.0547, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 2, loss: 0.68588, train_acc: 0.56
+weight adjusted tensor(145.2880, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 3, loss: 0.67770, train_acc: 0.65
+weight adjusted tensor(118.2342, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 4, loss: 0.66905, train_acc: 0.67
+weight adjusted tensor(78.4390, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 5, loss: 0.65950, train_acc: 0.67
+weight adjusted tensor(34.5208, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 6, loss: 0.64702, train_acc: 0.69
+weight adjusted tensor(6.6929, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 7, loss: 0.63081, train_acc: 0.70
+weight adjusted tensor(0.2516, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 8, loss: 0.61013, train_acc: 0.71
+weight adjusted tensor(0.0004, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 9, loss: 0.58041, train_acc: 0.72
+weight adjusted tensor(7.0295e-10, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 10, loss: 0.53770, train_acc: 0.74
+weight adjusted tensor(2.7620e-21, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 11, loss: 0.48708, train_acc: 0.76
+weight adjusted tensor(4.2696e-44, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 12, loss: 0.82162, train_acc: 0.71
+weight adjusted tensor(1.0185e-89, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 13, loss: 0.53464, train_acc: 0.77
+weight adjusted tensor(5.8029e-181, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 14, loss: 0.50870, train_acc: 0.77
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 15, loss: 0.48431, train_acc: 0.78
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 16, loss: 0.49033, train_acc: 0.79
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 17, loss: 0.49785, train_acc: 0.79
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 18, loss: 0.50121, train_acc: 0.79
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 19, loss: 0.49965, train_acc: 0.79
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 20, loss: 0.49307, train_acc: 0.80
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 21, loss: 0.48165, train_acc: 0.80
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 22, loss: 0.46575, train_acc: 0.82
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 23, loss: 0.44580, train_acc: 0.84
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 24, loss: 0.42188, train_acc: 0.85
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 25, loss: 0.39306, train_acc: 0.86
+Finished Training
+              precision    recall  f1-score   support
+
+           0       0.74      0.76      0.75       132
+           1       0.72      0.69      0.71       118
+
+    accuracy                           0.73       250
+   macro avg       0.73      0.73      0.73       250
+weighted avg       0.73      0.73      0.73       250
+
+input_torch torch.Size([750, 100])
+sparsemans loss 13.065530252538132
+Epoch: 1, loss: 13.75973, train_acc: 0.51
+input_torch torch.Size([750, 100])
+sparsemans loss 12.4126997659952
+Epoch: 2, loss: 13.09942, train_acc: 0.55
+input_torch torch.Size([750, 100])
+sparsemans loss 11.20215574984865
+Epoch: 3, loss: 11.88141, train_acc: 0.60
+input_torch torch.Size([750, 100])
+sparsemans loss 9.121816487985553
+Epoch: 4, loss: 9.79255, train_acc: 0.66
+input_torch torch.Size([750, 100])
+sparsemans loss 6.051846464068944
+Epoch: 5, loss: 6.71331, train_acc: 0.67
+input_torch torch.Size([750, 100])
+sparsemans loss 2.6642216916227217
+Epoch: 6, loss: 3.31432, train_acc: 0.68
+input_torch torch.Size([750, 100])
+sparsemans loss 0.5161639327742736
+Epoch: 7, loss: 1.15131, train_acc: 0.69
+input_torch torch.Size([750, 100])
+sparsemans loss 0.019365112693272315
+Epoch: 8, loss: 0.63535, train_acc: 0.69
+input_torch torch.Size([750, 100])
+sparsemans loss 2.7269510161115974e-05
+Epoch: 9, loss: 0.59084, train_acc: 0.71
+input_torch torch.Size([750, 100])
+sparsemans loss 5.4067637338385236e-11
+Epoch: 10, loss: 0.55466, train_acc: 0.73
+input_torch torch.Size([750, 100])
+sparsemans loss 2.1236088476599636e-22
+Epoch: 11, loss: 0.51157, train_acc: 0.73
+input_torch torch.Size([750, 100])
+sparsemans loss 3.281825402079662e-45
+Epoch: 12, loss: 1.01747, train_acc: 0.67
+input_torch torch.Size([750, 100])
+sparsemans loss 7.830590506954874e-91
+Epoch: 13, loss: 0.52518, train_acc: 0.75
+input_torch torch.Size([750, 100])
+sparsemans loss 4.463804504411936e-182
+Epoch: 14, loss: 0.58873, train_acc: 0.71
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 15, loss: 0.51510, train_acc: 0.76
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 16, loss: 0.48894, train_acc: 0.78
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 17, loss: 0.48929, train_acc: 0.79
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 18, loss: 0.49535, train_acc: 0.80
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 19, loss: 0.50043, train_acc: 0.79
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 20, loss: 0.50179, train_acc: 0.78
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 21, loss: 0.49786, train_acc: 0.77
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 22, loss: 0.48801, train_acc: 0.78
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 23, loss: 0.47289, train_acc: 0.80
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 24, loss: 0.45388, train_acc: 0.82
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 25, loss: 0.43184, train_acc: 0.84
+Finished Training
+              precision    recall  f1-score   support
+
+           0       0.75      0.63      0.68       132
+           1       0.65      0.76      0.70       118
+
+    accuracy                           0.69       250
+   macro avg       0.70      0.70      0.69       250
+weighted avg       0.70      0.69      0.69       250
+
+weight adjusted tensor(1.6946, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 1, loss: -1.00042, train_acc: 0.49
+weight adjusted tensor(1.6106, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 2, loss: -0.92457, train_acc: 0.61
+weight adjusted tensor(1.4542, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 3, loss: -0.77620, train_acc: 0.63
+weight adjusted tensor(1.1850, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 4, loss: -0.51585, train_acc: 0.65
+weight adjusted tensor(0.7847, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 5, loss: -0.12618, train_acc: 0.67
+weight adjusted tensor(0.3456, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 6, loss: 0.29942, train_acc: 0.68
+weight adjusted tensor(0.0669, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 7, loss: 0.56061, train_acc: 0.69
+weight adjusted tensor(0.0025, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 8, loss: 0.60126, train_acc: 0.71
+weight adjusted tensor(3.5330e-06, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 9, loss: 0.57035, train_acc: 0.73
+weight adjusted tensor(7.0077e-12, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 10, loss: 0.52173, train_acc: 0.73
+weight adjusted tensor(2.7558e-23, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 11, loss: 0.56705, train_acc: 0.76
+weight adjusted tensor(4.2559e-46, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 12, loss: 1.07510, train_acc: 0.61
+weight adjusted tensor(1.0148e-91, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 13, loss: 0.54833, train_acc: 0.75
+weight adjusted tensor(5.7842e-183, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 14, loss: 0.49833, train_acc: 0.75
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 15, loss: 0.57838, train_acc: 0.68
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 16, loss: 0.55365, train_acc: 0.68
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 17, loss: 0.52344, train_acc: 0.73
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 18, loss: 0.51023, train_acc: 0.77
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 19, loss: 0.50697, train_acc: 0.81
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 20, loss: 0.50765, train_acc: 0.82
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 21, loss: 0.50922, train_acc: 0.83
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 22, loss: 0.51017, train_acc: 0.83
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 23, loss: 0.50979, train_acc: 0.83
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 24, loss: 0.50774, train_acc: 0.83
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 25, loss: 0.50387, train_acc: 0.83
+Finished Training
+              precision    recall  f1-score   support
+
+           0       0.68      0.74      0.71       132
+           1       0.68      0.61      0.64       118
+
+    accuracy                           0.68       250
+   macro avg       0.68      0.68      0.68       250
+weighted avg       0.68      0.68      0.68       250
+
+sparsemans loss 1.3753189739513823
+word analogy weight adjusted tensor(169.4571, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 1, loss: -167.38727, train_acc: 0.51
+sparsemans loss 1.3755794282225497
+word analogy weight adjusted tensor(161.1241, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 2, loss: -159.06099, train_acc: 0.55
+sparsemans loss 1.375902725004022
+word analogy weight adjusted tensor(145.5705, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 3, loss: -143.51345, train_acc: 0.60
+sparsemans loss 1.3766854622229612
+word analogy weight adjusted tensor(118.3594, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 4, loss: -116.30942, train_acc: 0.67
+sparsemans loss 1.377321440399742
+word analogy weight adjusted tensor(78.5211, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 5, loss: -76.47883, train_acc: 0.67
+sparsemans loss 1.3769947592500058
+word analogy weight adjusted tensor(34.5739, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 6, loss: -32.54148, train_acc: 0.67
+sparsemans loss 1.376855279706052
+word analogy weight adjusted tensor(6.6943, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 7, loss: -4.67458, train_acc: 0.68
+sparsemans loss 1.3769335326467493
+word analogy weight adjusted tensor(0.2512, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 8, loss: 1.75174, train_acc: 0.70
+sparsemans loss 1.3771372469991237
+word analogy weight adjusted tensor(0.0004, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 9, loss: 1.98123, train_acc: 0.71
+sparsemans loss 1.376978758704161
+word analogy weight adjusted tensor(7.0006e-10, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 10, loss: 1.95238, train_acc: 0.72
+sparsemans loss 1.3772992823253876
+word analogy weight adjusted tensor(2.7530e-21, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 11, loss: 1.90814, train_acc: 0.74
+sparsemans loss 1.376656587310216
+word analogy weight adjusted tensor(4.2528e-44, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 12, loss: 1.90082, train_acc: 0.75
+sparsemans loss 1.3762452238169514
+word analogy weight adjusted tensor(1.0144e-89, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 13, loss: 2.32153, train_acc: 0.68
+sparsemans loss 1.376713172061502
+word analogy weight adjusted tensor(5.7925e-181, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 14, loss: 1.88646, train_acc: 0.76
+sparsemans loss 1.3759605349251305
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 15, loss: 2.04252, train_acc: 0.65
+sparsemans loss 1.3762364430361949
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 16, loss: 1.99334, train_acc: 0.64
+sparsemans loss 1.3757423413890504
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 17, loss: 1.91802, train_acc: 0.70
+sparsemans loss 1.375769360431205
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 18, loss: 1.88144, train_acc: 0.75
+sparsemans loss 1.3759961665867153
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 19, loss: 1.87109, train_acc: 0.80
+sparsemans loss 1.37556531507075
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 20, loss: 1.87285, train_acc: 0.82
+sparsemans loss 1.3759198345776333
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 21, loss: 1.88048, train_acc: 0.82
+sparsemans loss 1.376202249358067
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 22, loss: 1.88796, train_acc: 0.80
+sparsemans loss 1.3757428116502894
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 23, loss: 1.89041, train_acc: 0.79
+sparsemans loss 1.376363726512466
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 24, loss: 1.88777, train_acc: 0.79
+sparsemans loss 1.376312536686349
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 25, loss: 1.87972, train_acc: 0.80
+Finished Training
+              precision    recall  f1-score   support
+
+           0       0.65      0.82      0.72       132
+           1       0.71      0.50      0.59       118
+
+    accuracy                           0.67       250
+   macro avg       0.68      0.66      0.65       250
+weighted avg       0.68      0.67      0.66       250
+
+./embed/filtered.txt
+Vectors read from: ./embed/filtered.txt
+=================================================================================
+Serial              Dataset       Num Pairs       Not found             Rho
+=================================================================================
+     1         EN-MC-30.txt              30              0         0.7767
+     2     EN-MEN-TR-3k.txt            3000              0         0.7303
+     3     EN-MTurk-287.txt             287              0         0.6580
+     4     EN-MTurk-771.txt             771              0         0.6028
+     5         EN-RG-65.txt              65              0         0.7715
+     6   EN-RW-STANFORD.txt            2034             96         0.4093
+     7    EN-SIMLEX-999.txt             999              0         0.3386
+     8  EN-SimVerb-3500.txt            3500              2         0.2004
+     9      EN-VERB-143.txt             144              0         0.3333
+    10    EN-WS-353-ALL.txt             353              0         0.6570
+    11    EN-WS-353-REL.txt             252              0         0.6027
+    12    EN-WS-353-SIM.txt             203              0         0.7226
+    13        EN-YP-130.txt             130              0         0.4274
+./embed/filtered.txt
+Vectors read from: ./embed/filtered.txt
+test_pad.shape: 250
+test_pad[0].shape: 100
+weight adjusted tensor(1.8958, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 1, loss: 0.69513, train_acc: 0.49
+weight adjusted tensor(1.8704, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 2, loss: 0.69593, train_acc: 0.51
+weight adjusted tensor(1.6234, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 3, loss: 0.69328, train_acc: 0.51
+weight adjusted tensor(1.3214, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 4, loss: 0.69152, train_acc: 0.57
+weight adjusted tensor(0.8762, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 5, loss: 0.69170, train_acc: 0.52
+weight adjusted tensor(0.3855, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 6, loss: 0.69145, train_acc: 0.51
+weight adjusted tensor(0.0746, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 7, loss: 0.69015, train_acc: 0.54
+weight adjusted tensor(0.0028, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 8, loss: 0.68859, train_acc: 0.57
+weight adjusted tensor(3.9332e-06, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 9, loss: 0.68741, train_acc: 0.58
+weight adjusted tensor(7.7946e-12, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 10, loss: 0.68640, train_acc: 0.51
+weight adjusted tensor(3.0573e-23, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 11, loss: 0.68480, train_acc: 0.51
+weight adjusted tensor(4.7217e-46, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 12, loss: 0.68228, train_acc: 0.56
+weight adjusted tensor(1.1265e-91, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 13, loss: 0.67921, train_acc: 0.65
+weight adjusted tensor(6.4181e-183, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 14, loss: 0.67578, train_acc: 0.67
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 15, loss: 0.67140, train_acc: 0.69
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 16, loss: 0.66506, train_acc: 0.70
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 17, loss: 0.65645, train_acc: 0.71
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 18, loss: 0.64601, train_acc: 0.74
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 19, loss: 0.62902, train_acc: 0.79
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 20, loss: 0.60631, train_acc: 0.84
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 21, loss: 0.56651, train_acc: 0.89
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 22, loss: 0.48038, train_acc: 0.89
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 23, loss: 0.72647, train_acc: 0.65
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 24, loss: 0.82807, train_acc: 0.60
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 25, loss: 0.63645, train_acc: 0.64
+Finished Training
+              precision    recall  f1-score   support
+
+           0       0.53      0.82      0.64       132
+           1       0.48      0.19      0.27       118
+
+    accuracy                           0.52       250
+   macro avg       0.50      0.50      0.46       250
+weighted avg       0.51      0.52      0.47       250
+
+input_torch torch.Size([750, 100])
+sparsemans loss -0.41609179091997733
+Epoch: 1, loss: 0.27744, train_acc: 0.49
+input_torch torch.Size([750, 100])
+sparsemans loss -0.06151987484739659
+Epoch: 2, loss: 0.63613, train_acc: 0.51
+input_torch torch.Size([750, 100])
+sparsemans loss 0.14212196744803327
+Epoch: 3, loss: 0.83477, train_acc: 0.51
+input_torch torch.Size([750, 100])
+sparsemans loss 0.121627951056889
+Epoch: 4, loss: 0.81397, train_acc: 0.51
+input_torch torch.Size([750, 100])
+sparsemans loss 0.19524100922372067
+Epoch: 5, loss: 0.88840, train_acc: 0.49
+input_torch torch.Size([750, 100])
+sparsemans loss 0.07196550671710393
+Epoch: 6, loss: 0.76415, train_acc: 0.50
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0107017533181278
+Epoch: 7, loss: 0.70118, train_acc: 0.54
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0002829450836817767
+Epoch: 8, loss: 0.68948, train_acc: 0.58
+input_torch torch.Size([750, 100])
+sparsemans loss 4.61717164131757e-07
+Epoch: 9, loss: 0.68853, train_acc: 0.51
+input_torch torch.Size([750, 100])
+sparsemans loss 8.78630142513888e-13
+Epoch: 10, loss: 0.68785, train_acc: 0.51
+input_torch torch.Size([750, 100])
+sparsemans loss 2.9925154073571244e-24
+Epoch: 11, loss: 0.68643, train_acc: 0.51
+input_torch torch.Size([750, 100])
+sparsemans loss 5.041709071351304e-47
+Epoch: 12, loss: 0.68425, train_acc: 0.51
+input_torch torch.Size([750, 100])
+sparsemans loss 1.2010847421006482e-92
+Epoch: 13, loss: 0.68170, train_acc: 0.67
+input_torch torch.Size([750, 100])
+sparsemans loss 1.3870164683943873e-184
+Epoch: 14, loss: 0.67894, train_acc: 0.67
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 15, loss: 0.67560, train_acc: 0.67
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 16, loss: 0.67092, train_acc: 0.67
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 17, loss: 0.66437, train_acc: 0.68
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 18, loss: 0.65649, train_acc: 0.71
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 19, loss: 0.64545, train_acc: 0.75
+input_torch torch.Size([750, 100])
+sparsemans loss -0.0
+Epoch: 20, loss: 0.62893, train_acc: 0.81
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 21, loss: 0.60612, train_acc: 0.88
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 22, loss: 0.57197, train_acc: 0.78
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 23, loss: 0.56623, train_acc: 0.72
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 24, loss: 1.46497, train_acc: 0.51
+input_torch torch.Size([750, 100])
+sparsemans loss 0.0
+Epoch: 25, loss: 0.51189, train_acc: 0.88
+Finished Training
+              precision    recall  f1-score   support
+
+           0       0.53      0.93      0.68       132
+           1       0.53      0.08      0.15       118
+
+    accuracy                           0.53       250
+   macro avg       0.53      0.51      0.41       250
+weighted avg       0.53      0.53      0.43       250
+
+weight adjusted tensor(0.0190, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 1, loss: 0.67430, train_acc: 0.51
+weight adjusted tensor(0.0180, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 2, loss: 0.67986, train_acc: 0.49
+weight adjusted tensor(0.0162, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 3, loss: 0.67604, train_acc: 0.52
+weight adjusted tensor(0.0132, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 4, loss: 0.67898, train_acc: 0.51
+weight adjusted tensor(0.0088, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 5, loss: 0.68429, train_acc: 0.51
+weight adjusted tensor(0.0039, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 6, loss: 0.68795, train_acc: 0.51
+weight adjusted tensor(0.0007, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 7, loss: 0.68931, train_acc: 0.51
+weight adjusted tensor(2.7966e-05, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 8, loss: 0.68890, train_acc: 0.57
+weight adjusted tensor(3.9378e-08, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 9, loss: 0.68834, train_acc: 0.58
+weight adjusted tensor(8.1145e-14, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 10, loss: 0.68758, train_acc: 0.57
+weight adjusted tensor(3.1855e-25, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 11, loss: 0.68610, train_acc: 0.57
+weight adjusted tensor(4.9207e-48, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 12, loss: 0.68388, train_acc: 0.62
+weight adjusted tensor(1.1749e-93, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 13, loss: 0.68120, train_acc: 0.63
+weight adjusted tensor(6.6973e-185, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 14, loss: 0.67835, train_acc: 0.63
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 15, loss: 0.67518, train_acc: 0.65
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 16, loss: 0.67070, train_acc: 0.67
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 17, loss: 0.66396, train_acc: 0.72
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 18, loss: 0.65522, train_acc: 0.73
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 19, loss: 0.64414, train_acc: 0.73
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 20, loss: 0.62676, train_acc: 0.77
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 21, loss: 0.60039, train_acc: 0.80
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 22, loss: 0.55424, train_acc: 0.88
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 23, loss: 0.53364, train_acc: 0.77
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 24, loss: 1.18066, train_acc: 0.51
+weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 25, loss: 0.73121, train_acc: 0.52
+Finished Training
+              precision    recall  f1-score   support
+
+           0       1.00      0.02      0.04       132
+           1       0.48      1.00      0.65       118
+
+    accuracy                           0.48       250
+   macro avg       0.74      0.51      0.35       250
+weighted avg       0.75      0.48      0.33       250
+
+sparsemans loss -0.0437991358863134
+word analogy weight adjusted tensor(1.8958, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 1, loss: -1.24662, train_acc: 0.53
+sparsemans loss -0.0936743099212077
+word analogy weight adjusted tensor(1.8017, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 2, loss: -1.19666, train_acc: 0.51
+sparsemans loss 0.018935427779999767
+word analogy weight adjusted tensor(1.6265, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 3, loss: -0.91527, train_acc: 0.51
+sparsemans loss 0.017059124111749906
+word analogy weight adjusted tensor(1.3252, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 4, loss: -0.61571, train_acc: 0.52
+sparsemans loss 0.013851015063553473
+word analogy weight adjusted tensor(0.8795, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 5, loss: -0.17215, train_acc: 0.50
+sparsemans loss 0.01818017786467221
+word analogy weight adjusted tensor(0.3872, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 6, loss: 0.32307, train_acc: 0.52
+sparsemans loss 0.02794466474081432
+word analogy weight adjusted tensor(0.0750, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 7, loss: 0.64305, train_acc: 0.55
+sparsemans loss 0.027199498656479373
+word analogy weight adjusted tensor(0.0028, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 8, loss: 0.71329, train_acc: 0.56
+sparsemans loss 0.027065797557059623
+word analogy weight adjusted tensor(3.9654e-06, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 9, loss: 0.71541, train_acc: 0.51
+sparsemans loss 0.03309012217807976
+word analogy weight adjusted tensor(7.8648e-12, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 10, loss: 0.72085, train_acc: 0.51
+sparsemans loss 0.025852116514373878
+word analogy weight adjusted tensor(3.0867e-23, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 11, loss: 0.71237, train_acc: 0.51
+sparsemans loss 0.030092690568774092
+word analogy weight adjusted tensor(4.7620e-46, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 12, loss: 0.71463, train_acc: 0.51
+sparsemans loss 0.013291457333671151
+word analogy weight adjusted tensor(1.1375e-91, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 13, loss: 0.69539, train_acc: 0.61
+sparsemans loss 0.015322614112753818
+word analogy weight adjusted tensor(6.4869e-183, dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 14, loss: 0.69474, train_acc: 0.64
+sparsemans loss 0.018588544911907652
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 15, loss: 0.69497, train_acc: 0.67
+sparsemans loss 0.01676255447724227
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 16, loss: 0.68916, train_acc: 0.67
+sparsemans loss 0.023004532451549105
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 17, loss: 0.68975, train_acc: 0.66
+sparsemans loss 0.024435830125336247
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 18, loss: 0.68382, train_acc: 0.65
+sparsemans loss 0.035166341829254696
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 19, loss: 0.68554, train_acc: 0.66
+sparsemans loss 0.03970395932087419
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 20, loss: 0.67559, train_acc: 0.74
+sparsemans loss -0.015369287570042429
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 21, loss: 0.60128, train_acc: 0.83
+sparsemans loss 0.006506380203280304
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 22, loss: 0.59214, train_acc: 0.90
+sparsemans loss -0.004641549737666448
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 23, loss: 0.52059, train_acc: 0.91
+sparsemans loss 0.0019180040913697111
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 24, loss: 1.19929, train_acc: 0.50
+sparsemans loss 0.008091248269882214
+word analogy weight adjusted tensor(0., dtype=torch.float64, grad_fn=<MulBackward0>)
+Epoch: 25, loss: 0.94185, train_acc: 0.70
+Finished Training
+              precision    recall  f1-score   support
+
+           0       0.51      0.62      0.56       132
+           1       0.44      0.34      0.38       118
+
+    accuracy                           0.49       250
+   macro avg       0.48      0.48      0.47       250
+weighted avg       0.48      0.49      0.48       250
+
+
+Process finished with exit code 0

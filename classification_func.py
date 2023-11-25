@@ -105,7 +105,7 @@ def classification_lr(emb_table,learning_rate, n_class, emb_dim, train_pad_encod
           return self.encoder_fc(hidden_out)
 
   from sklearn.metrics import accuracy_score
-  n_hidden = 32#256
+  n_hidden = 256#256
   n_emb = emb_dim
   total_epoch = 25
   model = Bi_LSTM_Attention().to(device)
