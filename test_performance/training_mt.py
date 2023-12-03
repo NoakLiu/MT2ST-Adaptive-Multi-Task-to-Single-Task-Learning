@@ -5,10 +5,9 @@ import torch
 import numpy as np
 
 from classification_func import classification, classification_lr
-from update_embed_cutoff import update_embedding, update_embedding0, update_embedding1, update_embedding2, update_embedding3
+from update_embed_mt import update_embedding, update_embedding0, update_embedding1, update_embedding2, update_embedding3
 from data_preprocessing import preprocess_dataset
 from eval_func import sim_loss_cal, word_sim_dir,word_vec_file, read_word_vectors
-
 
 def original_embedding(word_model):
   emb_table = []
@@ -142,4 +141,3 @@ word2vec_cbow_up2_prediction = classification(np.array(list(new_word2vec_cbow_em
 new_word2vec_cbow_emb = update_embedding3(word2vec_cbow_emb, n_class, emb_dim, word_list,train_pad_encoded, label_train_encoded, test_pad_encoded,
                        label_test_encoded)
 word2vec_cbow_up3_prediction = classification(np.array(list(new_word2vec_cbow_emb.values())),  n_class, 256)
-

@@ -1,0 +1,289 @@
+D:\Anaconda\exe\python.exe "E:\2023 Fall\23 Fall MT2ST WE Acc Meng\MT2ST-Word-Embeddings-Acceleration-Method-main\MT2ST-Word-Embeddings-Acceleration-Method-main\Glove-switch.py"
+Size of the dataset: 1000
+["This film did entertain me with lots of laughs at the actors who kept the film moving along in all types of crazy directions. If you like suggestive language and sexy looking gals they were all in the picture and gals and guys all looking burned out before they even graduate from high school. There is one scene where the teenagers drive their car into a very fake deer and then proceed to throw it out into a lake or ocean, which is repeated over and over again. There is no horror to this film except the word Horrible for the entire picture and Arnold who plays a plastic cop is really one sick character. Please don't waste your time viewing this film.", 'The animation in this re-imagining of Peter & the Wolf is excellent, but at 29 minutes, the film is sleep inducing. They should have called it "Peter & the Snails", because everything moves at a snail\'s pace. I couldn\'t even watch the film in one sitting - I had to watch it 15 minutes at a time, and it was pure torture.<br /><br />Save yourself 30 minutes - do not watch this film - and you will thank me.<br /><br />I can only guess that the Oscar nominating committee only watched the first few minutes of the nominees. Unfortunately, to vote for the winner in the Best Animated Short (short!) category, the voters will have to sit through the whole thing. I already feel sorry for them - and must predict that there\'s no way this film will come close to winning.', "This is a great show, and will make you cry, this group people really loved each other in real life and it shows time and time again. Email me and let's chat. I have been to Australia and they real do talk like this.<br /><br />I want you to enjoy Five Mile Creek and pass on these great stories of right and wrong, and friendship to your kids. I have all 40 Episodes on DVD-R that I have collected over the last 5 years. See my Five Mile Creek tribute at www.mikeandvicki.com and hear the extended theme music. Let's talk about them.<br /><br />These people are so cool!", 'This is a great TV miniseries of a classic novel. Janet McTeer and John Bowe, in the lead roles, are exceptional. This is one of the best adaptations from a book that I have seen. I would LOVE to get a copy of this - let me know if you know how I might get one...Thanks!', "My husband dragged me to this film as I had no interest in seeing some Anime cartoon. I was absolutely delighted by the simple story and amazing animation. In a digital world where effects are computer generated it was refreshing to see gorgeous, imaginative hand drawn animation. The world of Sosuke and Ponyo is a vivid fantasyland intermixed with minimal reality. I haven't seen animation like this since I was a child and it is wonderful to see it endure and succeed.<br /><br />The actors supplying the voices in the English version were fabulous. The length of the movie was PERFECT, especially for children who tend to get squirrelly in films. Overall a delightful experience worth the very expensive ticket prices we have nowadays.", "This film was reeeeeeallyyyy bad! Was it meant to be a comedy as I couldn't help laughing the whole way through it? what a waste of two hours! Donald Sutherland was wooden not that he was alone, everyone else was just as bad...and how miscast was linda hamilton???", "If you have enjoyed the Butterfly Effect, Donnie Darko or The Machinist, you will enjoy K-Pax too.<br /><br />To me, this movie felt really uplifting and yet depressing in the end. Spacey delivers a great performance as Prot. Also, lets not forget the appearance of Saul Williams in the movie, who i am a big fan of.<br /><br />After watching it, i recommended the movie to lots of my friends, and everyone was pretty much blown away.<br /><br />But still, it is very underrated, maybe because of the lack of action and explosions. I'm sorry, this is not a movie about blowing things up, it's about how humans behave, and how people live in worlds that don't exist.<br /><br />Go on, and enjoy.", "The first hour or so of the movie was mostly boring to say the least. However it improved afterwards as the Valentine Party commenced. Apart from the twist as to the identity of the killer in the very end, the hot bath murder scene was one of the few relatively memorable aspects of this movie. The scene at the garden with Kate was well shot and so was the very last scene (the 'twist'). In those scenes, there was some genuine suspense and thrills and the hot bath murder scene had a nasty (the way slashers should be) edge to it. The earlier murders are frustratingly devoid of gore.", "As an avid fan of Cary Grant, I expected to watch this movie and howl with laughter, as AMC billed it as a comedy. I have never been more disappointed with a film! Cary's usual charm and effortless comedy are AWOL from this entire movie; he comes across as strained, bored, and just not himself. Mississip's character ranks among one of the worst stereotypes I have ever witnessed - his accent is terribly exaggerated (and incorrect, according to which part of Mississippi he claims to hail from), and whenever he does deliver a line, it's several decibels higher than any other cast member. Mississip tried to make himself stand out in the film as a lovable, country-bumpkin goofball, but in the end, he manages only to detract from the already weak plot. Mansfield looks more like an obscene blow-up doll than a Hollywood sex kitten, and while she was never known in Hollywood for her acting ability, this film screams that she never had that ability to begin with. Ray Walston's character was sugary and ultimately contrived. For four men on shore leave, it was the tamest leave I've ever seen. I watched this nightmare until its very end, and while I won't spoil that for anyone, I will tell you that it's the most absurd you'll ever see. The film tries to spark patriotism and a sense of debt to the fighting men, but the film misses that point totally because of its weak plot line and weak cast. Sorry, Cary!"]
+['negative', 'negative', 'positive', 'positive', 'positive', 'negative', 'positive', 'positive', 'negative']
+['this film did entertain me with lots of laughs at the actors who kept the film moving along in all types of crazy directions if you like suggestive language and sexy looking gals they were all in the picture and gals and guys all looking burned out before they even graduate from high school there is one scene where the teenagers drive their car into a very fake deer and then proceed to throw it out into a lake or ocean which is repeated over and over again there is no horror to this film except the word horrible for the entire picture and arnold who plays a plastic cop is really one sick character please dont waste your time viewing this film', 'the animation in this reimagining of peter  the wolf is excellent but at 29 minutes the film is sleep inducing they should have called it peter  the snails because everything moves at a snails pace i couldnt even watch the film in one sitting  i had to watch it 15 minutes at a time and it was pure torturesave yourself 30 minutes  do not watch this film  and you will thank mei can only guess that the oscar nominating committee only watched the first few minutes of the nominees unfortunately to vote for the winner in the best animated short short category the voters will have to sit through the whole thing i already feel sorry for them  and must predict that theres no way this film will come close to winning', 'this is a great show and will make you cry this group people really loved each other in real life and it shows time and time again email me and lets chat i have been to australia and they real do talk like thisi want you to enjoy five mile creek and pass on these great stories of right and wrong and friendship to your kids i have all 40 episodes on dvdr that i have collected over the last 5 years see my five mile creek tribute at wwwmikeandvickicom and hear the extended theme music lets talk about themthese people are so cool', 'this is a great tv miniseries of a classic novel janet mcteer and john bowe in the lead roles are exceptional this is one of the best adaptations from a book that i have seen i would love to get a copy of this  let me know if you know how i might get onethanks', 'my husband dragged me to this film as i had no interest in seeing some anime cartoon i was absolutely delighted by the simple story and amazing animation in a digital world where effects are computer generated it was refreshing to see gorgeous imaginative hand drawn animation the world of sosuke and ponyo is a vivid fantasyland intermixed with minimal reality i havent seen animation like this since i was a child and it is wonderful to see it endure and succeedthe actors supplying the voices in the english version were fabulous the length of the movie was perfect especially for children who tend to get squirrelly in films overall a delightful experience worth the very expensive ticket prices we have nowadays', 'this film was reeeeeeallyyyy bad was it meant to be a comedy as i couldnt help laughing the whole way through it what a waste of two hours donald sutherland was wooden not that he was alone everyone else was just as badand how miscast was linda hamilton', 'if you have enjoyed the butterfly effect donnie darko or the machinist you will enjoy kpax tooto me this movie felt really uplifting and yet depressing in the end spacey delivers a great performance as prot also lets not forget the appearance of saul williams in the movie who i am a big fan ofafter watching it i recommended the movie to lots of my friends and everyone was pretty much blown awaybut still it is very underrated maybe because of the lack of action and explosions im sorry this is not a movie about blowing things up its about how humans behave and how people live in worlds that dont existgo on and enjoy', 'the first hour or so of the movie was mostly boring to say the least however it improved afterwards as the valentine party commenced apart from the twist as to the identity of the killer in the very end the hot bath murder scene was one of the few relatively memorable aspects of this movie the scene at the garden with kate was well shot and so was the very last scene the twist in those scenes there was some genuine suspense and thrills and the hot bath murder scene had a nasty the way slashers should be edge to it the earlier murders are frustratingly devoid of gore', 'as an avid fan of cary grant i expected to watch this movie and howl with laughter as amc billed it as a comedy i have never been more disappointed with a film carys usual charm and effortless comedy are awol from this entire movie he comes across as strained bored and just not himself mississips character ranks among one of the worst stereotypes i have ever witnessed  his accent is terribly exaggerated and incorrect according to which part of mississippi he claims to hail from and whenever he does deliver a line its several decibels higher than any other cast member mississip tried to make himself stand out in the film as a lovable countrybumpkin goofball but in the end he manages only to detract from the already weak plot mansfield looks more like an obscene blowup doll than a hollywood sex kitten and while she was never known in hollywood for her acting ability this film screams that she never had that ability to begin with ray walstons character was sugary and ultimately contrived for four men on shore leave it was the tamest leave ive ever seen i watched this nightmare until its very end and while i wont spoil that for anyone i will tell you that its the most absurd youll ever see the film tries to spark patriotism and a sense of debt to the fighting men but the film misses that point totally because of its weak plot line and weak cast sorry cary']
+[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\LdTenacity\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[['this', 'film', 'did', 'entertain', 'me', 'with', 'lots', 'of', 'laughs', 'at', 'the', 'actors', 'who', 'kept', 'the', 'film', 'moving', 'along', 'in', 'all', 'types', 'of', 'crazy', 'directions', 'if', 'you', 'like', 'suggestive', 'language', 'and', 'sexy', 'looking', 'gals', 'they', 'were', 'all', 'in', 'the', 'picture', 'and', 'gals', 'and', 'guys', 'all', 'looking', 'burned', 'out', 'before', 'they', 'even', 'graduate', 'from', 'high', 'school', 'there', 'is', 'one', 'scene', 'where', 'the', 'teenagers', 'drive', 'their', 'car', 'into', 'a', 'very', 'fake', 'deer', 'and', 'then', 'proceed', 'to', 'throw', 'it', 'out', 'into', 'a', 'lake', 'or', 'ocean', 'which', 'is', 'repeated', 'over', 'and', 'over', 'again', 'there', 'is', 'no', 'horror', 'to', 'this', 'film', 'except', 'the', 'word', 'horrible', 'for', 'the', 'entire', 'picture', 'and', 'arnold', 'who', 'plays', 'a', 'plastic', 'cop', 'is', 'really', 'one', 'sick', 'character', 'please', 'dont', 'waste', 'your', 'time', 'viewing', 'this', 'film'], ['the', 'animation', 'in', 'this', 'reimagining', 'of', 'peter', 'the', 'wolf', 'is', 'excellent', 'but', 'at', '29', 'minutes', 'the', 'film', 'is', 'sleep', 'inducing', 'they', 'should', 'have', 'called', 'it', 'peter', 'the', 'snails', 'because', 'everything', 'moves', 'at', 'a', 'snails', 'pace', 'i', 'couldnt', 'even', 'watch', 'the', 'film', 'in', 'one', 'sitting', 'i', 'had', 'to', 'watch', 'it', '15', 'minutes', 'at', 'a', 'time', 'and', 'it', 'was', 'pure', 'torturesave', 'yourself', '30', 'minutes', 'do', 'not', 'watch', 'this', 'film', 'and', 'you', 'will', 'thank', 'mei', 'can', 'only', 'guess', 'that', 'the', 'oscar', 'nominating', 'committee', 'only', 'watched', 'the', 'first', 'few', 'minutes', 'of', 'the', 'nominees', 'unfortunately', 'to', 'vote', 'for', 'the', 'winner', 'in', 'the', 'best', 'animated', 'short', 'short', 'category', 'the', 'voters', 'will', 'have', 'to', 'sit', 'through', 'the', 'whole', 'thing', 'i', 'already', 'feel', 'sorry', 'for', 'them', 'and', 'must', 'predict', 'that', 'theres', 'no', 'way', 'this', 'film', 'will', 'come', 'close', 'to', 'winning'], ['this', 'is', 'a', 'great', 'show', 'and', 'will', 'make', 'you', 'cry', 'this', 'group', 'people', 'really', 'loved', 'each', 'other', 'in', 'real', 'life', 'and', 'it', 'shows', 'time', 'and', 'time', 'again', 'email', 'me', 'and', 'lets', 'chat', 'i', 'have', 'been', 'to', 'australia', 'and', 'they', 'real', 'do', 'talk', 'like', 'thisi', 'want', 'you', 'to', 'enjoy', 'five', 'mile', 'creek', 'and', 'pass', 'on', 'these', 'great', 'stories', 'of', 'right', 'and', 'wrong', 'and', 'friendship', 'to', 'your', 'kids', 'i', 'have', 'all', '40', 'episodes', 'on', 'dvdr', 'that', 'i', 'have', 'collected', 'over', 'the', 'last', '5', 'years', 'see', 'my', 'five', 'mile', 'creek', 'tribute', 'at', 'wwwmikeandvickicom', 'and', 'hear', 'the', 'extended', 'theme', 'music', 'lets', 'talk', 'about', 'themthese', 'people', 'are', 'so', 'cool'], ['this', 'is', 'a', 'great', 'tv', 'miniseries', 'of', 'a', 'classic', 'novel', 'janet', 'mcteer', 'and', 'john', 'bowe', 'in', 'the', 'lead', 'roles', 'are', 'exceptional', 'this', 'is', 'one', 'of', 'the', 'best', 'adaptations', 'from', 'a', 'book', 'that', 'i', 'have', 'seen', 'i', 'would', 'love', 'to', 'get', 'a', 'copy', 'of', 'this', 'let', 'me', 'know', 'if', 'you', 'know', 'how', 'i', 'might', 'get', 'onethanks'], ['my', 'husband', 'dragged', 'me', 'to', 'this', 'film', 'as', 'i', 'had', 'no', 'interest', 'in', 'seeing', 'some', 'anime', 'cartoon', 'i', 'was', 'absolutely', 'delighted', 'by', 'the', 'simple', 'story', 'and', 'amazing', 'animation', 'in', 'a', 'digital', 'world', 'where', 'effects', 'are', 'computer', 'generated', 'it', 'was', 'refreshing', 'to', 'see', 'gorgeous', 'imaginative', 'hand', 'drawn', 'animation', 'the', 'world', 'of', 'sosuke', 'and', 'ponyo', 'is', 'a', 'vivid', 'fantasyland', 'intermixed', 'with', 'minimal', 'reality', 'i', 'havent', 'seen', 'animation', 'like', 'this', 'since', 'i', 'was', 'a', 'child', 'and', 'it', 'is', 'wonderful', 'to', 'see', 'it', 'endure', 'and', 'succeedthe', 'actors', 'supplying', 'the', 'voices', 'in', 'the', 'english', 'version', 'were', 'fabulous', 'the', 'length', 'of', 'the', 'movie', 'was', 'perfect', 'especially', 'for', 'children', 'who', 'tend', 'to', 'get', 'squirrelly', 'in', 'films', 'overall', 'a', 'delightful', 'experience', 'worth', 'the', 'very', 'expensive', 'ticket', 'prices', 'we', 'have', 'nowadays'], ['this', 'film', 'was', 'reeeeeeallyyyy', 'bad', 'was', 'it', 'meant', 'to', 'be', 'a', 'comedy', 'as', 'i', 'couldnt', 'help', 'laughing', 'the', 'whole', 'way', 'through', 'it', 'what', 'a', 'waste', 'of', 'two', 'hours', 'donald', 'sutherland', 'was', 'wooden', 'not', 'that', 'he', 'was', 'alone', 'everyone', 'else', 'was', 'just', 'as', 'badand', 'how', 'miscast', 'was', 'linda', 'hamilton'], ['if', 'you', 'have', 'enjoyed', 'the', 'butterfly', 'effect', 'donnie', 'darko', 'or', 'the', 'machinist', 'you', 'will', 'enjoy', 'kpax', 'tooto', 'me', 'this', 'movie', 'felt', 'really', 'uplifting', 'and', 'yet', 'depressing', 'in', 'the', 'end', 'spacey', 'delivers', 'a', 'great', 'performance', 'as', 'prot', 'also', 'lets', 'not', 'forget', 'the', 'appearance', 'of', 'saul', 'williams', 'in', 'the', 'movie', 'who', 'i', 'am', 'a', 'big', 'fan', 'ofafter', 'watching', 'it', 'i', 'recommended', 'the', 'movie', 'to', 'lots', 'of', 'my', 'friends', 'and', 'everyone', 'was', 'pretty', 'much', 'blown', 'awaybut', 'still', 'it', 'is', 'very', 'underrated', 'maybe', 'because', 'of', 'the', 'lack', 'of', 'action', 'and', 'explosions', 'im', 'sorry', 'this', 'is', 'not', 'a', 'movie', 'about', 'blowing', 'things', 'up', 'its', 'about', 'how', 'humans', 'behave', 'and', 'how', 'people', 'live', 'in', 'worlds', 'that', 'dont', 'existgo', 'on', 'and', 'enjoy'], ['the', 'first', 'hour', 'or', 'so', 'of', 'the', 'movie', 'was', 'mostly', 'boring', 'to', 'say', 'the', 'least', 'however', 'it', 'improved', 'afterwards', 'as', 'the', 'valentine', 'party', 'commenced', 'apart', 'from', 'the', 'twist', 'as', 'to', 'the', 'identity', 'of', 'the', 'killer', 'in', 'the', 'very', 'end', 'the', 'hot', 'bath', 'murder', 'scene', 'was', 'one', 'of', 'the', 'few', 'relatively', 'memorable', 'aspects', 'of', 'this', 'movie', 'the', 'scene', 'at', 'the', 'garden', 'with', 'kate', 'was', 'well', 'shot', 'and', 'so', 'was', 'the', 'very', 'last', 'scene', 'the', 'twist', 'in', 'those', 'scenes', 'there', 'was', 'some', 'genuine', 'suspense', 'and', 'thrills', 'and', 'the', 'hot', 'bath', 'murder', 'scene', 'had', 'a', 'nasty', 'the', 'way', 'slashers', 'should', 'be', 'edge', 'to', 'it', 'the', 'earlier', 'murders', 'are', 'frustratingly', 'devoid', 'of', 'gore'], ['as', 'an', 'avid', 'fan', 'of', 'cary', 'grant', 'i', 'expected', 'to', 'watch', 'this', 'movie', 'and', 'howl', 'with', 'laughter', 'as', 'amc', 'billed', 'it', 'as', 'a', 'comedy', 'i', 'have', 'never', 'been', 'more', 'disappointed', 'with', 'a', 'film', 'carys', 'usual', 'charm', 'and', 'effortless', 'comedy', 'are', 'awol', 'from', 'this', 'entire', 'movie', 'he', 'comes', 'across', 'as', 'strained', 'bored', 'and', 'just', 'not', 'himself', 'mississips', 'character', 'ranks', 'among', 'one', 'of', 'the', 'worst', 'stereotypes', 'i', 'have', 'ever', 'witnessed', 'his', 'accent', 'is', 'terribly', 'exaggerated', 'and', 'incorrect', 'according', 'to', 'which', 'part', 'of', 'mississippi', 'he', 'claims', 'to', 'hail', 'from', 'and', 'whenever', 'he', 'does', 'deliver', 'a', 'line', 'its', 'several', 'decibels', 'higher', 'than', 'any', 'other', 'cast', 'member', 'mississip', 'tried', 'to', 'make', 'himself', 'stand', 'out', 'in', 'the', 'film', 'as', 'a', 'lovable', 'countrybumpkin', 'goofball', 'but', 'in', 'the', 'end', 'he', 'manages', 'only', 'to', 'detract', 'from', 'the', 'already', 'weak', 'plot', 'mansfield', 'looks', 'more', 'like', 'an', 'obscene', 'blowup', 'doll', 'than', 'a', 'hollywood', 'sex', 'kitten', 'and', 'while', 'she', 'was', 'never', 'known', 'in', 'hollywood', 'for', 'her', 'acting', 'ability', 'this', 'film', 'screams', 'that', 'she', 'never', 'had', 'that', 'ability', 'to', 'begin', 'with', 'ray', 'walstons', 'character', 'was', 'sugary', 'and', 'ultimately', 'contrived', 'for', 'four', 'men', 'on', 'shore', 'leave', 'it', 'was', 'the', 'tamest', 'leave', 'ive', 'ever', 'seen', 'i', 'watched', 'this', 'nightmare', 'until', 'its', 'very', 'end', 'and', 'while', 'i', 'wont', 'spoil', 'that', 'for', 'anyone', 'i', 'will', 'tell', 'you', 'that', 'its', 'the', 'most', 'absurd', 'youll', 'ever', 'see', 'the', 'film', 'tries', 'to', 'spark', 'patriotism', 'and', 'a', 'sense', 'of', 'debt', 'to', 'the', 'fighting', 'men', 'but', 'the', 'film', 'misses', 'that', 'point', 'totally', 'because', 'of', 'its', 'weak', 'plot', 'line', 'and', 'weak', 'cast', 'sorry', 'cary']]
+[nltk_data] Downloading package stopwords to
+[nltk_data]     C:\Users\LdTenacity\AppData\Roaming\nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+[['film', 'entertain', 'lots', 'laughs', 'actors', 'kept', 'film', 'moving', 'along', 'types', 'crazy', 'directions', 'like', 'suggestive', 'language', 'sexy', 'looking', 'gals', 'picture', 'gals', 'guys', 'looking', 'burned', 'even', 'graduate', 'high', 'school', 'one', 'scene', 'teenagers', 'drive', 'car', 'fake', 'deer', 'proceed', 'throw', 'lake', 'ocean', 'repeated', 'horror', 'film', 'except', 'word', 'horrible', 'entire', 'picture', 'arnold', 'plays', 'plastic', 'cop', 'really', 'one', 'sick', 'character', 'please', 'dont', 'waste', 'time', 'viewing', 'film'], ['animation', 'reimagining', 'peter', 'wolf', 'excellent', '29', 'minutes', 'film', 'sleep', 'inducing', 'called', 'peter', 'snails', 'everything', 'moves', 'snails', 'pace', 'couldnt', 'even', 'watch', 'film', 'one', 'sitting', 'watch', '15', 'minutes', 'time', 'pure', 'torturesave', '30', 'minutes', 'watch', 'film', 'thank', 'mei', 'guess', 'oscar', 'nominating', 'committee', 'watched', 'first', 'minutes', 'nominees', 'unfortunately', 'vote', 'winner', 'best', 'animated', 'short', 'short', 'category', 'voters', 'sit', 'whole', 'thing', 'already', 'feel', 'sorry', 'must', 'predict', 'theres', 'way', 'film', 'come', 'close', 'winning'], ['great', 'show', 'make', 'cry', 'group', 'people', 'really', 'loved', 'real', 'life', 'shows', 'time', 'time', 'email', 'lets', 'chat', 'australia', 'real', 'talk', 'like', 'thisi', 'want', 'enjoy', 'five', 'mile', 'creek', 'pass', 'great', 'stories', 'right', 'wrong', 'friendship', 'kids', '40', 'episodes', 'dvdr', 'collected', 'last', '5', 'years', 'see', 'five', 'mile', 'creek', 'tribute', 'wwwmikeandvickicom', 'hear', 'extended', 'theme', 'music', 'lets', 'talk', 'themthese', 'people', 'cool'], ['great', 'tv', 'miniseries', 'classic', 'novel', 'janet', 'mcteer', 'john', 'bowe', 'lead', 'roles', 'exceptional', 'one', 'best', 'adaptations', 'book', 'seen', 'would', 'love', 'get', 'copy', 'let', 'know', 'know', 'might', 'get', 'onethanks'], ['husband', 'dragged', 'film', 'interest', 'seeing', 'anime', 'cartoon', 'absolutely', 'delighted', 'simple', 'story', 'amazing', 'animation', 'digital', 'world', 'effects', 'computer', 'generated', 'refreshing', 'see', 'gorgeous', 'imaginative', 'hand', 'drawn', 'animation', 'world', 'sosuke', 'ponyo', 'vivid', 'fantasyland', 'intermixed', 'minimal', 'reality', 'havent', 'seen', 'animation', 'like', 'since', 'child', 'wonderful', 'see', 'endure', 'succeedthe', 'actors', 'supplying', 'voices', 'english', 'version', 'fabulous', 'length', 'movie', 'perfect', 'especially', 'children', 'tend', 'get', 'squirrelly', 'films', 'overall', 'delightful', 'experience', 'worth', 'expensive', 'ticket', 'prices', 'nowadays'], ['film', 'reeeeeeallyyyy', 'bad', 'meant', 'comedy', 'couldnt', 'help', 'laughing', 'whole', 'way', 'waste', 'two', 'hours', 'donald', 'sutherland', 'wooden', 'alone', 'everyone', 'else', 'badand', 'miscast', 'linda', 'hamilton'], ['enjoyed', 'butterfly', 'effect', 'donnie', 'darko', 'machinist', 'enjoy', 'kpax', 'tooto', 'movie', 'felt', 'really', 'uplifting', 'yet', 'depressing', 'end', 'spacey', 'delivers', 'great', 'performance', 'prot', 'also', 'lets', 'forget', 'appearance', 'saul', 'williams', 'movie', 'big', 'fan', 'ofafter', 'watching', 'recommended', 'movie', 'lots', 'friends', 'everyone', 'pretty', 'much', 'blown', 'awaybut', 'still', 'underrated', 'maybe', 'lack', 'action', 'explosions', 'im', 'sorry', 'movie', 'blowing', 'things', 'humans', 'behave', 'people', 'live', 'worlds', 'dont', 'existgo', 'enjoy'], ['first', 'hour', 'movie', 'mostly', 'boring', 'say', 'least', 'however', 'improved', 'afterwards', 'valentine', 'party', 'commenced', 'apart', 'twist', 'identity', 'killer', 'end', 'hot', 'bath', 'murder', 'scene', 'one', 'relatively', 'memorable', 'aspects', 'movie', 'scene', 'garden', 'kate', 'well', 'shot', 'last', 'scene', 'twist', 'scenes', 'genuine', 'suspense', 'thrills', 'hot', 'bath', 'murder', 'scene', 'nasty', 'way', 'slashers', 'edge', 'earlier', 'murders', 'frustratingly', 'devoid', 'gore'], ['avid', 'fan', 'cary', 'grant', 'expected', 'watch', 'movie', 'howl', 'laughter', 'amc', 'billed', 'comedy', 'never', 'disappointed', 'film', 'carys', 'usual', 'charm', 'effortless', 'comedy', 'awol', 'entire', 'movie', 'comes', 'across', 'strained', 'bored', 'mississips', 'character', 'ranks', 'among', 'one', 'worst', 'stereotypes', 'ever', 'witnessed', 'accent', 'terribly', 'exaggerated', 'incorrect', 'according', 'part', 'mississippi', 'claims', 'hail', 'whenever', 'deliver', 'line', 'several', 'decibels', 'higher', 'cast', 'member', 'mississip', 'tried', 'make', 'stand', 'film', 'lovable', 'countrybumpkin', 'goofball', 'end', 'manages', 'detract', 'already', 'weak', 'plot', 'mansfield', 'looks', 'like', 'obscene', 'blowup', 'doll', 'hollywood', 'sex', 'kitten', 'never', 'known', 'hollywood', 'acting', 'ability', 'film', 'screams', 'never', 'ability', 'begin', 'ray', 'walstons', 'character', 'sugary', 'ultimately', 'contrived', 'four', 'men', 'shore', 'leave', 'tamest', 'leave', 'ive', 'ever', 'seen', 'watched', 'nightmare', 'end', 'wont', 'spoil', 'anyone', 'tell', 'absurd', 'youll', 'ever', 'see', 'film', 'tries', 'spark', 'patriotism', 'sense', 'debt', 'fighting', 'men', 'film', 'misses', 'point', 'totally', 'weak', 'plot', 'line', 'weak', 'cast', 'sorry', 'cary']]
+[nltk_data] Downloading package wordnet to
+[nltk_data]     C:\Users\LdTenacity\AppData\Roaming\nltk_data...
+[nltk_data]   Package wordnet is already up-to-date!
+[nltk_data] Downloading package omw-1.4 to
+[nltk_data]     C:\Users\LdTenacity\AppData\Roaming\nltk_data...
+[nltk_data]   Package omw-1.4 is already up-to-date!
+[['film', 'entertain', 'lot', 'laugh', 'actor', 'kept', 'film', 'moving', 'along', 'type', 'crazy', 'direction', 'like', 'suggestive', 'language', 'sexy', 'looking', 'gal', 'picture', 'gal', 'guy', 'looking', 'burned', 'even', 'graduate', 'high', 'school', 'one', 'scene', 'teenager', 'drive', 'car', 'fake', 'deer', 'proceed', 'throw', 'lake', 'ocean', 'repeated', 'horror', 'film', 'except', 'word', 'horrible', 'entire', 'picture', 'arnold', 'play', 'plastic', 'cop', 'really', 'one', 'sick', 'character', 'please', 'dont', 'waste', 'time', 'viewing', 'film'], ['animation', 'reimagining', 'peter', 'wolf', 'excellent', '29', 'minute', 'film', 'sleep', 'inducing', 'called', 'peter', 'snail', 'everything', 'move', 'snail', 'pace', 'couldnt', 'even', 'watch', 'film', 'one', 'sitting', 'watch', '15', 'minute', 'time', 'pure', 'torturesave', '30', 'minute', 'watch', 'film', 'thank', 'mei', 'guess', 'oscar', 'nominating', 'committee', 'watched', 'first', 'minute', 'nominee', 'unfortunately', 'vote', 'winner', 'best', 'animated', 'short', 'short', 'category', 'voter', 'sit', 'whole', 'thing', 'already', 'feel', 'sorry', 'must', 'predict', 'there', 'way', 'film', 'come', 'close', 'winning'], ['great', 'show', 'make', 'cry', 'group', 'people', 'really', 'loved', 'real', 'life', 'show', 'time', 'time', 'email', 'let', 'chat', 'australia', 'real', 'talk', 'like', 'thisi', 'want', 'enjoy', 'five', 'mile', 'creek', 'pas', 'great', 'story', 'right', 'wrong', 'friendship', 'kid', '40', 'episode', 'dvdr', 'collected', 'last', '5', 'year', 'see', 'five', 'mile', 'creek', 'tribute', 'wwwmikeandvickicom', 'hear', 'extended', 'theme', 'music', 'let', 'talk', 'themthese', 'people', 'cool'], ['great', 'tv', 'miniseries', 'classic', 'novel', 'janet', 'mcteer', 'john', 'bowe', 'lead', 'role', 'exceptional', 'one', 'best', 'adaptation', 'book', 'seen', 'would', 'love', 'get', 'copy', 'let', 'know', 'know', 'might', 'get', 'onethanks'], ['husband', 'dragged', 'film', 'interest', 'seeing', 'anime', 'cartoon', 'absolutely', 'delighted', 'simple', 'story', 'amazing', 'animation', 'digital', 'world', 'effect', 'computer', 'generated', 'refreshing', 'see', 'gorgeous', 'imaginative', 'hand', 'drawn', 'animation', 'world', 'sosuke', 'ponyo', 'vivid', 'fantasyland', 'intermixed', 'minimal', 'reality', 'havent', 'seen', 'animation', 'like', 'since', 'child', 'wonderful', 'see', 'endure', 'succeedthe', 'actor', 'supplying', 'voice', 'english', 'version', 'fabulous', 'length', 'movie', 'perfect', 'especially', 'child', 'tend', 'get', 'squirrelly', 'film', 'overall', 'delightful', 'experience', 'worth', 'expensive', 'ticket', 'price', 'nowadays'], ['film', 'reeeeeeallyyyy', 'bad', 'meant', 'comedy', 'couldnt', 'help', 'laughing', 'whole', 'way', 'waste', 'two', 'hour', 'donald', 'sutherland', 'wooden', 'alone', 'everyone', 'else', 'badand', 'miscast', 'linda', 'hamilton'], ['enjoyed', 'butterfly', 'effect', 'donnie', 'darko', 'machinist', 'enjoy', 'kpax', 'tooto', 'movie', 'felt', 'really', 'uplifting', 'yet', 'depressing', 'end', 'spacey', 'delivers', 'great', 'performance', 'prot', 'also', 'let', 'forget', 'appearance', 'saul', 'williams', 'movie', 'big', 'fan', 'ofafter', 'watching', 'recommended', 'movie', 'lot', 'friend', 'everyone', 'pretty', 'much', 'blown', 'awaybut', 'still', 'underrated', 'maybe', 'lack', 'action', 'explosion', 'im', 'sorry', 'movie', 'blowing', 'thing', 'human', 'behave', 'people', 'live', 'world', 'dont', 'existgo', 'enjoy'], ['first', 'hour', 'movie', 'mostly', 'boring', 'say', 'least', 'however', 'improved', 'afterwards', 'valentine', 'party', 'commenced', 'apart', 'twist', 'identity', 'killer', 'end', 'hot', 'bath', 'murder', 'scene', 'one', 'relatively', 'memorable', 'aspect', 'movie', 'scene', 'garden', 'kate', 'well', 'shot', 'last', 'scene', 'twist', 'scene', 'genuine', 'suspense', 'thrill', 'hot', 'bath', 'murder', 'scene', 'nasty', 'way', 'slasher', 'edge', 'earlier', 'murder', 'frustratingly', 'devoid', 'gore'], ['avid', 'fan', 'cary', 'grant', 'expected', 'watch', 'movie', 'howl', 'laughter', 'amc', 'billed', 'comedy', 'never', 'disappointed', 'film', 'carys', 'usual', 'charm', 'effortless', 'comedy', 'awol', 'entire', 'movie', 'come', 'across', 'strained', 'bored', 'mississips', 'character', 'rank', 'among', 'one', 'worst', 'stereotype', 'ever', 'witnessed', 'accent', 'terribly', 'exaggerated', 'incorrect', 'according', 'part', 'mississippi', 'claim', 'hail', 'whenever', 'deliver', 'line', 'several', 'decibel', 'higher', 'cast', 'member', 'mississip', 'tried', 'make', 'stand', 'film', 'lovable', 'countrybumpkin', 'goofball', 'end', 'manages', 'detract', 'already', 'weak', 'plot', 'mansfield', 'look', 'like', 'obscene', 'blowup', 'doll', 'hollywood', 'sex', 'kitten', 'never', 'known', 'hollywood', 'acting', 'ability', 'film', 'scream', 'never', 'ability', 'begin', 'ray', 'walstons', 'character', 'sugary', 'ultimately', 'contrived', 'four', 'men', 'shore', 'leave', 'tamest', 'leave', 'ive', 'ever', 'seen', 'watched', 'nightmare', 'end', 'wont', 'spoil', 'anyone', 'tell', 'absurd', 'youll', 'ever', 'see', 'film', 'try', 'spark', 'patriotism', 'sense', 'debt', 'fighting', 'men', 'film', 'miss', 'point', 'totally', 'weak', 'plot', 'line', 'weak', 'cast', 'sorry', 'cary']]
+Original Methods
+
+Epoch: 1, loss: 0.69587, train_acc: 0.49
+Epoch: 2, loss: 12.65583, train_acc: 0.51
+Epoch: 3, loss: 3.17290, train_acc: 0.51
+Epoch: 4, loss: 2.22054, train_acc: 0.50
+Epoch: 5, loss: 1.00513, train_acc: 0.50
+Epoch: 6, loss: 1.12740, train_acc: 0.51
+Epoch: 7, loss: 1.22809, train_acc: 0.49
+Epoch: 8, loss: 0.82839, train_acc: 0.50
+Epoch: 9, loss: 0.94482, train_acc: 0.51
+Epoch: 10, loss: 0.82140, train_acc: 0.53
+Epoch: 11, loss: 0.88476, train_acc: 0.50
+Epoch: 12, loss: 0.96013, train_acc: 0.50
+Epoch: 13, loss: 0.81979, train_acc: 0.52
+Epoch: 14, loss: 0.99084, train_acc: 0.52
+Epoch: 15, loss: 0.82698, train_acc: 0.52
+Epoch: 16, loss: 0.94017, train_acc: 0.51
+Epoch: 17, loss: 0.90379, train_acc: 0.50
+Epoch: 18, loss: 0.82451, train_acc: 0.52
+Epoch: 19, loss: 0.93719, train_acc: 0.52
+Epoch: 20, loss: 0.80533, train_acc: 0.53
+Epoch: 21, loss: 0.90687, train_acc: 0.49
+Epoch: 22, loss: 0.82350, train_acc: 0.51
+Epoch: 23, loss: 0.85223, train_acc: 0.50
+Epoch: 24, loss: 0.86167, train_acc: 0.50
+Epoch: 25, loss: 0.81769, train_acc: 0.53
+Finished Training
+              precision    recall  f1-score   support
+
+           0       0.52      0.89      0.66       132
+           1       0.40      0.08      0.14       118
+
+    accuracy                           0.51       250
+   macro avg       0.46      0.49      0.40       250
+weighted avg       0.46      0.51      0.41       250
+
+losses:
+ [0.6958698034286499, 12.655832290649414, 3.1729016304016113, 2.2205355167388916, 1.0051337480545044, 1.1273964643478394, 1.2280877828598022, 0.8283942341804504, 0.9448235630989075, 0.8214015960693359, 0.884763240814209, 0.960125744342804, 0.819790780544281, 0.9908371567726135, 0.8269842863082886, 0.9401695132255554, 0.903786838054657, 0.8245121836662292, 0.9371916651725769, 0.8053317666053772, 0.9068689942359924, 0.8234996199607849, 0.8522258996963501, 0.8616673946380615, 0.8176873326301575]
+train_accs:
+ [0.48933333333333334, 0.5093333333333333, 0.5106666666666667, 0.5013333333333333, 0.5026666666666667, 0.5133333333333333, 0.49066666666666664, 0.504, 0.5146666666666667, 0.5293333333333333, 0.504, 0.504, 0.52, 0.5213333333333333, 0.524, 0.508, 0.49866666666666665, 0.5226666666666666, 0.5226666666666666, 0.5293333333333333, 0.49466666666666664, 0.5053333333333333, 0.5013333333333333, 0.5013333333333333, 0.5306666666666666]
+UPDATE0 Methods
+
+test_pad.shape: 250
+test_pad[0].shape: 100
+weight adjusted tensor(178.3759, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 1, loss: -177.68203, train_acc: 0.49
+weight adjusted tensor(178.4900, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 2, loss: -177.80399, train_acc: 0.60
+weight adjusted tensor(178.4886, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 3, loss: -177.81061, train_acc: 0.64
+weight adjusted tensor(178.5648, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 4, loss: -177.89570, train_acc: 0.66
+weight adjusted tensor(178.5624, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 5, loss: -177.90395, train_acc: 0.66
+weight adjusted tensor(178.6380, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 6, loss: -177.99318, train_acc: 0.68
+weight adjusted tensor(178.9112, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 7, loss: -178.28450, train_acc: 0.70
+weight adjusted tensor(178.9094, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 8, loss: -178.30764, train_acc: 0.71
+weight adjusted tensor(178.7389, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 9, loss: -178.17362, train_acc: 0.73
+weight adjusted tensor(178.6588, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 10, loss: -178.14169, train_acc: 0.73
+weight adjusted tensor(178.8128, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 11, loss: -178.24153, train_acc: 0.75
+weight adjusted tensor(178.7331, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 12, loss: -178.05853, train_acc: 0.66
+weight adjusted tensor(178.8105, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 13, loss: -178.27786, train_acc: 0.72
+weight adjusted tensor(178.9665, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 14, loss: -178.48034, train_acc: 0.77
+weight adjusted tensor(178.8882, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 15, loss: -178.38435, train_acc: 0.78
+Epoch: 1, loss: 0.51086, train_acc: 0.77
+Epoch: 2, loss: 0.49045, train_acc: 0.78
+Epoch: 3, loss: 0.44922, train_acc: 0.81
+Epoch: 4, loss: 0.73839, train_acc: 0.71
+Epoch: 5, loss: 0.43852, train_acc: 0.82
+Epoch: 6, loss: 0.46394, train_acc: 0.81
+Epoch: 7, loss: 0.47857, train_acc: 0.78
+Epoch: 8, loss: 0.48044, train_acc: 0.78
+Epoch: 9, loss: 0.47162, train_acc: 0.79
+Epoch: 10, loss: 0.45642, train_acc: 0.81
+Finished Training
+              precision    recall  f1-score   support
+
+           0       0.67      0.80      0.73       132
+           1       0.71      0.55      0.62       118
+
+    accuracy                           0.68       250
+   macro avg       0.69      0.68      0.68       250
+weighted avg       0.69      0.68      0.68       250
+
+list1
+ [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+list2
+ [-177.68203281831507, -177.80399269095207, -177.8106133012874, -177.89570036166387, -177.90395326016528, -177.99317612553048, -178.28449513977492, -178.30764296636008, -178.17361874809703, -178.14169251162807, -178.24153030981552, -178.058525947465, -178.2778585682976, -178.48033700181918, -178.38435197065348]
+list3
+ [16, 17, 18, 19, 20, 21, 22, 23, 24, 25]
+list4
+ [0.5108562707901001, 0.4904461205005646, 0.44922390580177307, 0.7383890748023987, 0.4385175406932831, 0.4639442265033722, 0.47856682538986206, 0.4804374873638153, 0.4716167449951172, 0.4564198851585388]
+UPDATE1 Methods
+
+weight adjusted tensor(178.3759, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 1, loss: -177.68077, train_acc: 0.46
+weight adjusted tensor(178.3766, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 2, loss: -177.68939, train_acc: 0.56
+weight adjusted tensor(178.2591, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 3, loss: -177.57985, train_acc: 0.63
+weight adjusted tensor(178.1829, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 4, loss: -177.51213, train_acc: 0.65
+weight adjusted tensor(178.1845, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 5, loss: -177.52396, train_acc: 0.66
+weight adjusted tensor(178.2638, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 6, loss: -177.61610, train_acc: 0.68
+weight adjusted tensor(178.4989, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 7, loss: -177.86767, train_acc: 0.69
+weight adjusted tensor(178.2526, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 8, loss: -177.64383, train_acc: 0.69
+weight adjusted tensor(178.4080, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 9, loss: -177.83053, train_acc: 0.71
+weight adjusted tensor(178.3281, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 10, loss: -177.79506, train_acc: 0.74
+weight adjusted tensor(178.6387, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 11, loss: -177.99239, train_acc: 0.72
+weight adjusted tensor(178.5610, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 12, loss: -177.67003, train_acc: 0.66
+weight adjusted tensor(178.5583, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 13, loss: -178.02986, train_acc: 0.74
+weight adjusted tensor(178.5192, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 14, loss: -178.02607, train_acc: 0.76
+weight adjusted tensor(178.2967, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 15, loss: -177.74543, train_acc: 0.70
+Epoch: 1, loss: 0.54298, train_acc: 0.70
+Epoch: 2, loss: 0.52362, train_acc: 0.74
+Epoch: 3, loss: 0.51427, train_acc: 0.78
+Epoch: 4, loss: 0.51179, train_acc: 0.81
+Epoch: 5, loss: 0.51183, train_acc: 0.81
+Epoch: 6, loss: 0.51195, train_acc: 0.83
+Epoch: 7, loss: 0.51093, train_acc: 0.82
+Epoch: 8, loss: 0.50813, train_acc: 0.82
+Epoch: 9, loss: 0.50322, train_acc: 0.83
+Epoch: 10, loss: 0.49601, train_acc: 0.83
+Finished Training
+              precision    recall  f1-score   support
+
+           0       0.69      0.76      0.72       132
+           1       0.70      0.63      0.66       118
+
+    accuracy                           0.70       250
+   macro avg       0.70      0.69      0.69       250
+weighted avg       0.70      0.70      0.69       250
+
+list1
+ [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+list2
+ [-177.68076854419473, -177.68939072231126, -177.57984922351557, -177.51212786294494, -177.52395592831598, -177.61609658219604, -177.86767293253152, -177.64382580471283, -177.83053488963085, -177.79505596004435, -177.99238821541408, -177.67003144004363, -178.029858240939, -178.02606843250297, -177.74543249667144]
+list3
+ [16, 17, 18, 19, 20, 21, 22, 23, 24, 25]
+list4
+ [0.5429807305335999, 0.5236213207244873, 0.5142707228660583, 0.5117886066436768, 0.5118269324302673, 0.5119500160217285, 0.5109277367591858, 0.5081284642219543, 0.503216564655304, 0.49601179361343384]
+UPDATE2 Methods
+
+weight adjusted tensor(178.3759, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 1, loss: -177.68373, train_acc: 0.52
+weight adjusted tensor(178.4572, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 2, loss: -177.77210, train_acc: 0.52
+weight adjusted tensor(178.2269, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 3, loss: -177.54997, train_acc: 0.62
+weight adjusted tensor(178.3085, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 4, loss: -177.64021, train_acc: 0.66
+weight adjusted tensor(178.4669, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 5, loss: -177.80837, train_acc: 0.67
+weight adjusted tensor(178.3770, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 6, loss: -177.73131, train_acc: 0.69
+weight adjusted tensor(178.5333, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 7, loss: -177.90407, train_acc: 0.69
+weight adjusted tensor(178.4551, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 8, loss: -177.84670, train_acc: 0.69
+weight adjusted tensor(178.6890, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 9, loss: -178.11084, train_acc: 0.72
+weight adjusted tensor(178.5318, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 10, loss: -177.99050, train_acc: 0.73
+weight adjusted tensor(178.3740, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 11, loss: -177.78027, train_acc: 0.73
+weight adjusted tensor(178.6837, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 12, loss: -178.07980, train_acc: 0.72
+weight adjusted tensor(178.6026, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 13, loss: -178.13723, train_acc: 0.79
+weight adjusted tensor(178.9125, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 14, loss: -178.38284, train_acc: 0.73
+weight adjusted tensor(178.7545, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 15, loss: -178.27049, train_acc: 0.76
+Epoch: 1, loss: 0.46499, train_acc: 0.79
+Epoch: 2, loss: 0.47331, train_acc: 0.80
+Epoch: 3, loss: 0.47912, train_acc: 0.80
+Epoch: 4, loss: 0.47178, train_acc: 0.80
+Epoch: 5, loss: 0.44857, train_acc: 0.82
+Epoch: 6, loss: 0.41119, train_acc: 0.84
+Epoch: 7, loss: 0.37795, train_acc: 0.85
+Epoch: 8, loss: 0.40384, train_acc: 0.82
+Epoch: 9, loss: 0.33037, train_acc: 0.87
+Epoch: 10, loss: 0.33592, train_acc: 0.86
+Finished Training
+              precision    recall  f1-score   support
+
+           0       0.71      0.85      0.77       132
+           1       0.78      0.61      0.69       118
+
+    accuracy                           0.74       250
+   macro avg       0.75      0.73      0.73       250
+weighted avg       0.74      0.74      0.73       250
+
+UPDATE3 Methods
+
+weight adjusted tensor(178.3759, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 1, loss: -177.68066, train_acc: 0.51
+weight adjusted tensor(178.3773, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 2, loss: -177.68933, train_acc: 0.60
+weight adjusted tensor(178.1443, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 3, loss: -177.46294, train_acc: 0.62
+weight adjusted tensor(178.1452, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 4, loss: -177.47154, train_acc: 0.66
+weight adjusted tensor(178.3019, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 5, loss: -177.63680, train_acc: 0.67
+weight adjusted tensor(178.5364, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 6, loss: -177.88120, train_acc: 0.67
+weight adjusted tensor(178.6808, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 7, loss: -178.03846, train_acc: 0.67
+weight adjusted tensor(178.4465, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 8, loss: -177.82142, train_acc: 0.68
+weight adjusted tensor(178.6801, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 9, loss: -178.07739, train_acc: 0.69
+weight adjusted tensor(178.6783, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 10, loss: -178.10547, train_acc: 0.72
+weight adjusted tensor(178.7536, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 11, loss: -178.22398, train_acc: 0.73
+weight adjusted tensor(178.6722, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 12, loss: -178.16541, train_acc: 0.76
+weight adjusted tensor(178.5928, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 13, loss: -178.12099, train_acc: 0.78
+weight adjusted tensor(178.3579, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 14, loss: -177.83354, train_acc: 0.72
+weight adjusted tensor(178.5142, dtype=torch.float64, grad_fn=<DivBackward0>)
+Epoch: 15, loss: -178.06874, train_acc: 0.79
+Epoch: 1, loss: 0.47088, train_acc: 0.79
+Epoch: 2, loss: 0.45074, train_acc: 0.80
+Epoch: 3, loss: 0.40984, train_acc: 0.84
+Epoch: 4, loss: 0.39638, train_acc: 0.85
+Epoch: 5, loss: 0.37724, train_acc: 0.85
+Epoch: 6, loss: 0.31588, train_acc: 0.89
+Epoch: 7, loss: 0.32683, train_acc: 0.85
+Epoch: 8, loss: 0.31394, train_acc: 0.86
+Epoch: 9, loss: 0.26722, train_acc: 0.88
+Epoch: 10, loss: 0.24748, train_acc: 0.90
+Finished Training
+              precision    recall  f1-score   support
+
+           0       0.77      0.82      0.79       132
+           1       0.78      0.72      0.75       118
+
+    accuracy                           0.77       250
+   macro avg       0.77      0.77      0.77       250
+weighted avg       0.77      0.77      0.77       250
+
+
+Process finished with exit code 0
