@@ -10,7 +10,7 @@ If you find MT2ST useful or relevant to your project and research, please kindly
 ```
 @article{liu2024mt2stadaptivemultitasksingletask,
       title={MT2ST: Adaptive Multi-Task to Single-Task Learning}, 
-      author={Dong Liu and Meng Jiang},
+      author={Dong Liu},
       year={2024},
       eprint={2406.18038},
       archivePrefix={arXiv},
